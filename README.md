@@ -16,11 +16,13 @@ Repositório que busca catalogar e organizar os provedores de internet que não 
 ## Pernambuco
 - Vescnet ([Site](http://www.vescnet.com.br/) - [Fonte](https://www.facebook.com/vescnet/posts/967016763352253))
 
+## Rio de Janeiro
+- LiveTIM ([Site](http://www.livetim.tim.com.br/) - [Fonte](http://g1.globo.com/tecnologia/noticia/2016/04/franquia-de-dados-na-internet-fixa-no-brasil-gera-criticas-em-redes-sociais.html))
+
 ## Rio Grande do Norte
 #### Natal
 
 - Cabo Telecom ([Site] (http://cabotelecom.com.br) - [Fonte] (https://www.facebook.com/CaboTelecomRN/photos/a.220092794683277.81548.175909589101598/1365962563429622/?type=3&comment_id=1366146396744572&reply_comment_id=1366537670038778&comment_tracking=%7B%22tn%22%3A%22R0%22%7D))
-
 
 ## Santa Catarina
 #### Jaraguá do Sul
