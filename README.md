@@ -21,8 +21,10 @@ Repositório que busca catalogar e organizar os provedores de internet que não 
 
 ## Rio Grande do Norte
 #### Natal
+- Cabo Telecom ([Site](http://cabotelecom.com.br) - [Fonte](https://archive.is/fsw4q))
 
-Cabo Telecom ([Site](http://cabotelecom.com.br) - [Fonte](https://archive.is/fsw4q))
+## Rio grande do Sul
+- Giga Internet ([Site](http://www.giga.com.br/) - [Fonte](https://archive.is/58NZ5))
 
 ## Santa Catarina
 #### Jaraguá do Sul
@@ -34,9 +36,6 @@ Cabo Telecom ([Site](http://cabotelecom.com.br) - [Fonte](https://archive.is/fsw
 
 ## Sergipe
 - BR27 ([Site](http://www.br27.com.br/) - [Fonte](https://archive.is/rggZG))
-
-## Rio grande do Sul
-- Giga Internet ([Site](http://www.giga.com.br/) - [Fonte](https://archive.is/58NZ5))
 
 # Painel da Vergonha
 Provedores de internet que irão limitar o tráfego de dados. ([link](HALL_OF_SHAME.md))
