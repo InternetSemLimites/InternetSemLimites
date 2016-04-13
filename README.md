@@ -7,6 +7,9 @@ Repositório que busca catalogar e organizar os provedores de internet que não 
 ## Goiás
 - Telgo Telecom ([Site](http://telgo.com.br/) - [Fonte](https://www.facebook.com/telgotelecom/photos/a.104038409724880.3041.103435436451844/851148338347213/?type=3))
 
+## Paraíba
+- BR27 ([Site](http://www.br27.com.br/) - [Fonte](https://www.facebook.com/br27tecnologia/posts/962061367182378?pnref=story))
+
 ## Paraná
 - Copel Telecom ([Site](http://www.copeltelecom.com/site/) - [Fonte](http://www.hardware.com.br/noticias/2016-04/copel-diz-que-nao-implantara-cobranca-por-franquia-de-dados.html))
 
