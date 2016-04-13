@@ -1,4 +1,4 @@
-# InternetSemLimites
+# Internet Sem Limites
 Repositório que busca catalogar e organizar os provedores de internet que não limitarão o tráfego de dados.
 
 ## Ceará
