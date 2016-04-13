@@ -26,6 +26,9 @@ Repositório que busca catalogar e organizar os provedores de internet que não 
 ## Sergipe
 - BR27 ([Site](http://www.br27.com.br/) - [Fonte](https://www.facebook.com/br27tecnologia/posts/962061367182378?pnref=story))
 
+## Jaboticabal
+- RocketNET (([Site]http://rocketnet.com.br) - [Fonte](http://rocketnet.com.br))
+
 
 # Painel da Vergonha
 Provedores de internet que irão limitar o tráfego de dados. ([link](HALL_OF_SHAME.md))
