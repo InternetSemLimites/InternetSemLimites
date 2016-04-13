@@ -22,6 +22,7 @@ Repositório que busca catalogar e organizar os provedores de internet que não 
 
 ## São Paulo
 - BR27 ([Site](http://www.br27.com.br/) - [Fonte](https://www.facebook.com/br27tecnologia/posts/962061367182378?pnref=story))
+- LiveTIM ([Site](http://www.livetim.tim.com.br/) - [Fonte](http://g1.globo.com/tecnologia/noticia/2016/04/franquia-de-dados-na-internet-fixa-no-brasil-gera-criticas-em-redes-sociais.html))
 
 ## Sergipe
 - BR27 ([Site](http://www.br27.com.br/) - [Fonte](https://www.facebook.com/br27tecnologia/posts/962061367182378?pnref=story))
