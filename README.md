@@ -22,7 +22,7 @@ Repositório que busca catalogar e organizar os provedores de internet que não 
 ## Rio Grande do Norte
 #### Natal
 
-Cabo Telecom ([Site](http://cabotelecom.com.br) - [Fonte](https://archive.is/WZkct))
+Cabo Telecom ([Site](http://cabotelecom.com.br) - [Fonte](https://archive.is/fsw4q))
 
 ## Santa Catarina
 #### Jaraguá do Sul
