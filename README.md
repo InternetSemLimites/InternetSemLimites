@@ -20,5 +20,12 @@ Repositório que busca catalogar e organizar os provedores de internet que não 
 #### Jaraguá do Sul
 - Naxi ([Site](http://www.naxi.com.br/) - [Fonte](https://www.facebook.com/naxifibra/videos/vb.1652072558408613/1724457364503465/))
 
+## São Paulo
+- BR27 ([Site](http://www.br27.com.br/) - [Fonte](https://www.facebook.com/br27tecnologia/posts/962061367182378?pnref=story))
+
+## Sergipe
+- BR27 ([Site](http://www.br27.com.br/) - [Fonte](https://www.facebook.com/br27tecnologia/posts/962061367182378?pnref=story))
+
+
 # Painel da Vergonha
 Provedores de internet que irão limitar o tráfego de dados. ([link](HALL_OF_SHAME.md))
