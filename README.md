@@ -35,5 +35,8 @@ Cabo Telecom ([Site](http://cabotelecom.com.br) - [Fonte](https://archive.is/WZk
 ## Sergipe
 - BR27 ([Site](http://www.br27.com.br/) - [Fonte](https://archive.is/rggZG))
 
+## Rio grande do Sul
+- BR27 ([Site](http://www.giga.com.br/) - [Fonte](https://archive.is/58NZ5))
+
 # Painel da Vergonha
 Provedores de internet que irão limitar o tráfego de dados. ([link](HALL_OF_SHAME.md))
