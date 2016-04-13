@@ -16,3 +16,6 @@ Repositório que busca catalogar e organizar os provedores de internet que não 
 ## Santa Catarina
 #### Jaraguá do Sul
 - Naxi ([Site](http://www.naxi.com.br/) - [Fonte](https://www.facebook.com/naxifibra/videos/vb.1652072558408613/1724457364503465/))
+
+# Painel da Vergonha
+Provedores de internet que irão limitar o tráfego de dados. ([link](HALL_OF_SHAME.md))
