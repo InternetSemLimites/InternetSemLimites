@@ -12,3 +12,7 @@ Repositório que busca catalogar e organizar os provedores de internet que não 
 
 ## Pernambuco
 - Vescnet ([Site](http://www.vescnet.com.br/) - [Fonte](https://www.facebook.com/vescnet/posts/967016763352253))
+
+## Santa Catarina
+#### Jaraguá do Sul
+- Naxi ([Site](http://www.naxi.com.br/) - [Fonte](https://www.facebook.com/naxifibra/videos/vb.1652072558408613/1724457364503465/))
