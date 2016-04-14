@@ -5,6 +5,7 @@ Os dados estão disponíveis também em uma [API pública](http://github.com/cud
 
 ## Bahia
 - Mob Telecom ([Site](http://www.mobtelecom.com.br/) - [Fonte](https://archive.is/v5Ajk))
+- Vox Conexão ([Site](http://www.voxconexao.com.br/) - [Fonte](http://archive.is/Hv8xL))
 
 ## Ceará
 - Mob Telecom ([Site](http://www.mobtelecom.com.br/) - [Fonte](https://archive.is/v5Ajk))
@@ -25,6 +26,7 @@ Os dados estão disponíveis também em uma [API pública](http://github.com/cud
 
 ## Minas Gerais
 - Algar Telecom ([Site](http://www.algartelecom.com.br/) - [Fonte](https://archive.is/Lzgc0))
+- Vox Conexão ([Site](http://www.voxconexao.com.br/) - [Fonte](http://archive.is/Hv8xL))
 
 ## Pará
 - Mob Telecom ([Site](http://www.mobtelecom.com.br/) - [Fonte](https://archive.is/v5Ajk))
