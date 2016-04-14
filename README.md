@@ -127,6 +127,12 @@ Os dados estão disponíveis também em uma [API pública](http://github.com/cud
 | [Cabo Telecom](http://cabotelecom.com.br) | https://archive.is/fsw4q |  Natal |
 | [Mob Telecom](http://www.mobtelecom.com.br/) | https://archive.is/v5Ajk |  &nbsp; |
 
+## Teresópolis
+
+| Provedor | Fonte | Observações |
+|----------|-------|-------------|
+| [Sumicity](http://sumicity.com.br) |  &nbsp; |
+
 
 # Painel da Vergonha
 
