@@ -9,20 +9,20 @@ Repositório que busca catalogar e organizar os provedores de internet que não 
 - Multiplay Telecom ([Site](http://www.multiplaytelecom.com.br/) - [Fonte](https://archive.is/aLHyp))
 
 ## Distrito Federal
-- Algar Telecom ([Site](http://www.algartelecom.com.br/) - [Fonte](https://www.facebook.com/algartelecom/videos/1050653298324054/?comment_id=1051170451605672&reply_comment_id=1051196951603022&comment_tracking=%7B%22tn%22%3A%22R9%22%7D))
+- Algar Telecom ([Site](http://www.algartelecom.com.br/) - [Fonte](https://archive.is/Lzgc0))
 
 ## Goiás
-- Algar Telecom ([Site](http://www.algartelecom.com.br/) - [Fonte](https://www.facebook.com/algartelecom/videos/1050653298324054/?comment_id=1051170451605672&reply_comment_id=1051196951603022&comment_tracking=%7B%22tn%22%3A%22R9%22%7D))
+- Algar Telecom ([Site](http://www.algartelecom.com.br/) - [Fonte](https://archive.is/Lzgc0))
 - Telgo Telecom ([Site](http://telgo.com.br/) - [Fonte](https://archive.is/2Hm37))
 
 ## Maranhão
 - Mob Telecom ([Site](http://www.mobtelecom.com.br/) - [Fonte](https://archive.is/v5Ajk))
 
 ## Mato Grosso do Sul
-- Algar Telecom ([Site](http://www.algartelecom.com.br/) - [Fonte](https://www.facebook.com/algartelecom/videos/1050653298324054/?comment_id=1051170451605672&reply_comment_id=1051196951603022&comment_tracking=%7B%22tn%22%3A%22R9%22%7D))
+- Algar Telecom ([Site](http://www.algartelecom.com.br/) - [Fonte](https://archive.is/Lzgc0))
 
 ## Minas Gerais
-- Algar Telecom ([Site](http://www.algartelecom.com.br/) - [Fonte](https://www.facebook.com/algartelecom/videos/1050653298324054/?comment_id=1051170451605672&reply_comment_id=1051196951603022&comment_tracking=%7B%22tn%22%3A%22R9%22%7D))
+- Algar Telecom ([Site](http://www.algartelecom.com.br/) - [Fonte](https://archive.is/Lzgc0))
 
 ## Pará
 - Mob Telecom ([Site](http://www.mobtelecom.com.br/) - [Fonte](https://archive.is/v5Ajk))
@@ -34,7 +34,7 @@ Repositório que busca catalogar e organizar os provedores de internet que não 
 - World Line Net ([Site](http://www.wln.com.br/) - [Fonte](https://archive.is/EyE6N))
 
 ## Paraná
-- Algar Telecom ([Site](http://www.algartelecom.com.br/) - [Fonte](https://www.facebook.com/algartelecom/videos/1050653298324054/?comment_id=1051170451605672&reply_comment_id=1051196951603022&comment_tracking=%7B%22tn%22%3A%22R9%22%7D))
+- Algar Telecom ([Site](http://www.algartelecom.com.br/) - [Fonte](https://archive.is/Lzgc0))
 - Copel Telecom ([Site](http://www.copeltelecom.com/site/) - [Fonte](https://archive.is/YWaqe))
 
 ## Pernambuco
@@ -45,7 +45,7 @@ Repositório que busca catalogar e organizar os provedores de internet que não 
 - Mob Telecom ([Site](http://www.mobtelecom.com.br/) - [Fonte](https://archive.is/v5Ajk))
 
 ## Rio de Janeiro
-- Algar Telecom ([Site](http://www.algartelecom.com.br/) - [Fonte](https://www.facebook.com/algartelecom/videos/1050653298324054/?comment_id=1051170451605672&reply_comment_id=1051196951603022&comment_tracking=%7B%22tn%22%3A%22R9%22%7D))
+- Algar Telecom ([Site](http://www.algartelecom.com.br/) - [Fonte](https://archive.is/Lzgc0))
 - LiveTIM ([Site](http://www.livetim.tim.com.br/) - [Fonte](https://archive.is/H5kYp))
 
 ## Rio Grande do Norte
@@ -55,11 +55,11 @@ Repositório que busca catalogar e organizar os provedores de internet que não 
 - Cabo Telecom ([Site](http://cabotelecom.com.br) - [Fonte](https://archive.is/fsw4q))
 
 ## Rio grande do Sul
-- Algar Telecom ([Site](http://www.algartelecom.com.br/) - [Fonte](https://www.facebook.com/algartelecom/videos/1050653298324054/?comment_id=1051170451605672&reply_comment_id=1051196951603022&comment_tracking=%7B%22tn%22%3A%22R9%22%7D))
+- Algar Telecom ([Site](http://www.algartelecom.com.br/) - [Fonte](https://archive.is/Lzgc0))
 - Giga Internet ([Site](http://www.giga.com.br/) - [Fonte](https://archive.is/58NZ5))
 
 ## Santa Catarina
-- Algar Telecom ([Site](http://www.algartelecom.com.br/) - [Fonte](https://www.facebook.com/algartelecom/videos/1050653298324054/?comment_id=1051170451605672&reply_comment_id=1051196951603022&comment_tracking=%7B%22tn%22%3A%22R9%22%7D))
+- Algar Telecom ([Site](http://www.algartelecom.com.br/) - [Fonte](https://archive.is/Lzgc0))
 
 #### Jaraguá do Sul
 - Naxi ([Site](http://www.naxi.com.br/) - [Fonte](https://archive.is/nclhr))
