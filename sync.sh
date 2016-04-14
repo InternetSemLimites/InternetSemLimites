@@ -19,8 +19,6 @@ cd /home/automacao/InternetSemLimites && (
 	if [ "$MD5A" != "$MD5B" ]; then
 		mv -f README.md.tmp README.md
 		git pull origin master
-                git add .
-		git commit -a -m "auto-update README.md"
-                git push origin master
+                git add . && (git commit -a -m "auto-update README.md"; git push origin master)
 	fi
 )
