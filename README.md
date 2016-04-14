@@ -1,5 +1,5 @@
 # Internet Sem Limites
-Repositório que busca catalogar e organizar os provedores de internet que não limitarão o tráfego de dados.
+Repositório que busca catalogar e organizar os provedores de internet que não limitarão o tráfego de dados. Temos também uma [API pública](http://github.com/cuducos/InternetSemLimitesCMS) com os dados.
 
 ## Bahia
 - Mob Telecom ([Site](http://www.mobtelecom.com.br/) - [Fonte](https://archive.is/v5Ajk))
