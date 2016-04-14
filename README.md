@@ -31,7 +31,12 @@ Cabo Telecom ([Site](http://cabotelecom.com.br) - [Fonte](https://archive.is/WZk
 ## São Paulo
 - BR27 ([Site](http://www.br27.com.br/) - [Fonte](https://archive.is/rggZG))
 - LiveTIM ([Site](http://www.livetim.tim.com.br/) - [Fonte](https://archive.is/H5kYp))
-- Americanet ([Site](http://www.americanet.com.br/) - [Fonte](https://archive.is/G1qtp))
+
+#### Poá
+- Americanet ([Site](http://www.americanet.com.br/) - [Fonte](http://archive.is/4NAlY))
+
+#### Santa Isabel
+- Americanet ([Site](http://www.americanet.com.br/) - [Fonte](http://archive.is/4NAlY))
 
 ## Sergipe
 - BR27 ([Site](http://www.br27.com.br/) - [Fonte](https://archive.is/rggZG))
