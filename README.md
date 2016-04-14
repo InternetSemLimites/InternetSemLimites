@@ -59,6 +59,7 @@ Os dados estão disponíveis também em uma [API pública](http://github.com/cud
 ## Rio grande do Sul
 - Algar Telecom ([Site](http://www.algartelecom.com.br/) - [Fonte](https://archive.is/Lzgc0))
 - Giga Internet ([Site](http://www.giga.com.br/) - [Fonte](https://archive.is/58NZ5))
+- Clean Net ([Site](http://www.cleannet.com.br/) - [Fonte](http://archive.is/wurzN))
 
 ## Santa Catarina
 - Algar Telecom ([Site](http://www.algartelecom.com.br/) - [Fonte](https://archive.is/Lzgc0))
