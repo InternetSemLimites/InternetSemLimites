@@ -30,6 +30,9 @@ Repositório que busca catalogar e organizar os provedores de internet que não 
 ## Paraíba
 - BR27 ([Site](http://www.br27.com.br/) - [Fonte](https://archive.is/rggZG))
 
+#### Região sudoeste do Paraná
+- World Line Net ([Site](http://www.wln.com.br/) - [Fonte](https://archive.is/EyE6N))
+
 ## Paraná
 - Algar Telecom ([Site](http://www.algartelecom.com.br/) - [Fonte](https://www.facebook.com/algartelecom/videos/1050653298324054/?comment_id=1051170451605672&reply_comment_id=1051196951603022&comment_tracking=%7B%22tn%22%3A%22R9%22%7D))
 - Copel Telecom ([Site](http://www.copeltelecom.com/site/) - [Fonte](https://archive.is/YWaqe))
