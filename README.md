@@ -50,7 +50,6 @@ Os dados estão disponíveis também em uma [API pública](http://github.com/cud
 
 | Provedor | Fonte | Observações |
 |----------|-------|-------------|
-| [Americanet](http://www.americanet.com.br/) | https://github.com/InternetSemLimites/InternetSemLimites/pull/14#issuecomment-209696260 |  &nbsp; |
 | [BR27](http://www.br27.com.br/) | https://archive.is/rggZG |  &nbsp; |
 | [LiveTIM](http://www.livetim.tim.com.br/) | https://archive.is/H5kYp |  &nbsp; |
 
