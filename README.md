@@ -1,5 +1,7 @@
 # Internet Sem Limites
 
+[![Join the chat at https://gitter.im/InternetSemLimites/InternetSemLimites](https://badges.gitter.im/InternetSemLimites/InternetSemLimites.svg)](https://gitter.im/InternetSemLimites/InternetSemLimites?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Repositório que busca catalogar e organizar os provedores de internet que não limitarão o tráfego de dados.
 
 Para cadastrar um novo provedor utilize [esse formulário](https://internetsemlimites.herokuapp.com/new/).
