@@ -60,6 +60,8 @@ This repo is focused on creating an open catalog of companies [who are not adher
 |----------|-------|-------------|
 | [Algar Telecom](http://www.algartelecom.com.br/) | https://archive.is/I7kDd | &nbsp; |
 | [Conectv](http://www.conectv.com.br/) | http://archive.is/u5FfF | Norte de Minas |
+| [Micropic](http://www.micropic.com.br) | http://archive.is/Bcsqu | Sul de Minas |
+| [Powerline Internet](http://www.powerline.com.br) | http://archive.is/lT4q6 | Juiz de Fora, Bicas, Lima Duarte, Maripá de MInas, Olaria, Guarará, Mar de Espanha, Matias Barbosa e Simão Pereira |
 | [Vox Conexão](http://www.voxconexao.com.br) | http://archive.is/WROSM | Montes Claros - MG, Sete Lagoas - MG e Vitória da Conquista - BA |
 
 ## Pará
@@ -113,6 +115,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 | [Brisanet](http://www.brisanet.com.br) | http://archive.is/eQgcJ | &nbsp; |
 | [Cabo Telecom](http://cabotelecom.com.br) | https://archive.is/fsw4q | Natal |
 | [Mob Telecom](http://www.mobtelecom.com.br/) | https://archive.is/v5Ajk | &nbsp; |
+| [TCM CABO](http://portaltcm.com.br/) | https://archive.is/cX22n | Mossoró |
 
 ## Rio Grande do Sul
 
@@ -122,6 +125,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 | [Clean Net](http://www.cleannet.com.br/) | http://archive.is/wurzN | &nbsp; |
 | [Giga Internet](http://www.giga.com.br/) | https://archive.is/58NZ5 | &nbsp; |
 | [Renovare Telecom](http://www.renovaretelecom.com.br/) | http://archive.is/ePr9J | &nbsp; |
+| [Viavale Telecom](http://www.viavale.com.br/) | https://archive.is/8BofM | Santa Cruz do Sul |
 
 ## Santa Catarina
 
