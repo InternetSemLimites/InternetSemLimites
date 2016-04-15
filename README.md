@@ -111,6 +111,7 @@ Os dados estão disponíveis também em uma [API pública](http://github.com/cud
 |----------|-------|-------------|
 | [Algar Telecom](http://www.algartelecom.com.br/) | https://archive.is/I7kDd |  &nbsp; |
 | [Naxi](http://www.naxi.com.br/) | https://archive.is/nclhr |  Jaraguá do Sul |
+| [Unifique](https://unifique.com.br/) | https://archive.is/LMadi |  &nbsp; |
 
 ## Paraná
 
