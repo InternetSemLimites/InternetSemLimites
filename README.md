@@ -1,7 +1,5 @@
 # Internet Sem Limites
 
-[![Join the chat at https://gitter.im/InternetSemLimites/InternetSemLimites](https://badges.gitter.im/InternetSemLimites/InternetSemLimites.svg)](https://gitter.im/InternetSemLimites/InternetSemLimites?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 Repositório que busca catalogar e organizar os provedores de internet que não limitarão o tráfego de dados.
 
 Para cadastrar um novo provedor utilize [esse formulário](https://internetsemlimites.herokuapp.com/new/).
@@ -13,41 +11,17 @@ This repo is focused on creating an open catalog of companies [who are not adher
 
 ---
 
-## Santa Catarina
+## Sergipe
 
 | Provedor | Fonte | Observações |
 |----------|-------|-------------|
-| [Algar Telecom](http://www.algartelecom.com.br/) | https://archive.is/I7kDd |  &nbsp; |
-| [Naxi](http://www.naxi.com.br/) | https://archive.is/nclhr |  Jaraguá do Sul |
-| [Unifique](https://unifique.com.br/) | https://archive.is/LMadi |  &nbsp; |
-
-## Rio de Janeiro
-
-| Provedor | Fonte | Observações |
-|----------|-------|-------------|
-| [Algar Telecom](http://www.algartelecom.com.br/) | https://archive.is/I7kDd |  &nbsp; |
-| [LiveTIM](http://www.livetim.tim.com.br/) | https://archive.is/H5kYp |  &nbsp; |
-
-## Pernambuco
-
-| Provedor | Fonte | Observações |
-|----------|-------|-------------|
-| [Mob Telecom](http://www.mobtelecom.com.br/) | https://archive.is/v5Ajk |  &nbsp; |
-| [Vescnet](http://www.vescnet.com.br/) | https://archive.is/XAMlb |  &nbsp; |
+| [BR27](http://www.br27.com.br/) | https://archive.is/rggZG |  &nbsp; |
 
 ## Piauí
 
 | Provedor | Fonte | Observações |
 |----------|-------|-------------|
 | [Mob Telecom](http://www.mobtelecom.com.br/) | https://archive.is/v5Ajk |  &nbsp; |
-
-## Paraná
-
-| Provedor | Fonte | Observações |
-|----------|-------|-------------|
-| [Algar Telecom](http://www.algartelecom.com.br/) | https://archive.is/I7kDd |  &nbsp; |
-| [Copel Telecom](http://www.copeltelecom.com/) | https://archive.is/YWaqe |  &nbsp; |
-| [World Line Net](http://www.wln.com.br/) | https://archive.is/EyE6N |  Região Sudoeste do Paraná |
 
 ## Bahia
 
@@ -56,18 +30,32 @@ This repo is focused on creating an open catalog of companies [who are not adher
 | [Mob Telecom](http://www.mobtelecom.com.br/) | https://archive.is/v5Ajk |  &nbsp; |
 | [Vox Conexão](http://www.voxconexao.com.br/) | http://archive.is/Hv8xL |  &nbsp; |
 
-## Pará
-
-| Provedor | Fonte | Observações |
-|----------|-------|-------------|
-| [Mob Telecom](http://www.mobtelecom.com.br/) | https://archive.is/v5Ajk |  &nbsp; |
-
 ## Goiás
 
 | Provedor | Fonte | Observações |
 |----------|-------|-------------|
 | [Algar Telecom](http://www.algartelecom.com.br/) | https://archive.is/I7kDd |  &nbsp; |
 | [Telgo Telecom](http://telgo.com.br/) | https://archive.is/2Hm37 |  &nbsp; |
+
+## Rio Grande do Norte
+
+| Provedor | Fonte | Observações |
+|----------|-------|-------------|
+| [Cabo Telecom](http://cabotelecom.com.br) | https://archive.is/fsw4q |  Natal |
+| [Mob Telecom](http://www.mobtelecom.com.br/) | https://archive.is/v5Ajk |  &nbsp; |
+
+## Pará
+
+| Provedor | Fonte | Observações |
+|----------|-------|-------------|
+| [Mob Telecom](http://www.mobtelecom.com.br/) | https://archive.is/v5Ajk |  &nbsp; |
+
+## Rio de Janeiro
+
+| Provedor | Fonte | Observações |
+|----------|-------|-------------|
+| [Algar Telecom](http://www.algartelecom.com.br/) | https://archive.is/I7kDd |  &nbsp; |
+| [LiveTIM](http://www.livetim.tim.com.br/) | https://archive.is/H5kYp |  &nbsp; |
 
 ## Rio Grande do Sul
 
@@ -78,17 +66,25 @@ This repo is focused on creating an open catalog of companies [who are not adher
 | [Giga Internet](http://www.giga.com.br/) | https://archive.is/58NZ5 |  &nbsp; |
 | [Renovare Telecom](http://www.renovaretelecom.com.br/) | http://archive.is/ePr9J |  &nbsp; |
 
-## Mato Grosso do Sul
+## Paraíba
+
+| Provedor | Fonte | Observações |
+|----------|-------|-------------|
+| [BR27](http://www.br27.com.br/) | https://archive.is/rggZG |  &nbsp; |
+
+## Paraná
 
 | Provedor | Fonte | Observações |
 |----------|-------|-------------|
 | [Algar Telecom](http://www.algartelecom.com.br/) | https://archive.is/I7kDd |  &nbsp; |
+| [Copel Telecom](http://www.copeltelecom.com/) | https://archive.is/YWaqe |  &nbsp; |
+| [World Line Net](http://www.wln.com.br/) | https://archive.is/EyE6N |  Região Sudoeste do Paraná |
 
-## Maranhão
+## Minas Gerais
 
 | Provedor | Fonte | Observações |
 |----------|-------|-------------|
-| [Mob Telecom](http://www.mobtelecom.com.br/) | https://archive.is/v5Ajk |  &nbsp; |
+| [Algar Telecom](http://www.algartelecom.com.br/) | https://archive.is/I7kDd |  &nbsp; |
 
 ## Distrito Federal
 
@@ -97,30 +93,18 @@ This repo is focused on creating an open catalog of companies [who are not adher
 | [Algar Telecom](http://www.algartelecom.com.br/) | https://archive.is/I7kDd |  &nbsp; |
 | [Multiplay Telecom](http://www.multiplaytelecom.com.br/) | https://archive.is/aLHyp |  &nbsp; |
 
-## Minas Gerais
+## Maranhão
 
 | Provedor | Fonte | Observações |
 |----------|-------|-------------|
-| [Algar Telecom](http://www.algartelecom.com.br/) | https://archive.is/I7kDd |  &nbsp; |
-
-## Sergipe
-
-| Provedor | Fonte | Observações |
-|----------|-------|-------------|
-| [BR27](http://www.br27.com.br/) | https://archive.is/rggZG |  &nbsp; |
-
-## Paraíba
-
-| Provedor | Fonte | Observações |
-|----------|-------|-------------|
-| [BR27](http://www.br27.com.br/) | https://archive.is/rggZG |  &nbsp; |
-
-## Rio Grande do Norte
-
-| Provedor | Fonte | Observações |
-|----------|-------|-------------|
-| [Cabo Telecom](http://cabotelecom.com.br) | https://archive.is/fsw4q |  Natal |
 | [Mob Telecom](http://www.mobtelecom.com.br/) | https://archive.is/v5Ajk |  &nbsp; |
+
+## Pernambuco
+
+| Provedor | Fonte | Observações |
+|----------|-------|-------------|
+| [Mob Telecom](http://www.mobtelecom.com.br/) | https://archive.is/v5Ajk |  &nbsp; |
+| [Vescnet](http://www.vescnet.com.br/) | https://archive.is/XAMlb |  &nbsp; |
 
 ## Ceará
 
@@ -129,12 +113,26 @@ This repo is focused on creating an open catalog of companies [who are not adher
 | [Mob Telecom](http://www.mobtelecom.com.br/) | https://archive.is/v5Ajk |  &nbsp; |
 | [Multiplay Telecom](http://www.multiplaytelecom.com.br/) | https://archive.is/aLHyp |  &nbsp; |
 
+## Santa Catarina
+
+| Provedor | Fonte | Observações |
+|----------|-------|-------------|
+| [Algar Telecom](http://www.algartelecom.com.br/) | https://archive.is/I7kDd |  &nbsp; |
+| [Naxi](http://www.naxi.com.br/) | https://archive.is/nclhr |  Jaraguá do Sul |
+| [Unifique](https://unifique.com.br/) | https://archive.is/LMadi |  &nbsp; |
+
 ## São Paulo
 
 | Provedor | Fonte | Observações |
 |----------|-------|-------------|
 | [BR27](http://www.br27.com.br/) | https://archive.is/rggZG |  &nbsp; |
 | [LiveTIM](http://www.livetim.tim.com.br/) | https://archive.is/H5kYp |  &nbsp; |
+
+## Mato Grosso do Sul
+
+| Provedor | Fonte | Observações |
+|----------|-------|-------------|
+| [Algar Telecom](http://www.algartelecom.com.br/) | https://archive.is/I7kDd |  &nbsp; |
 
 
 # Painel da Vergonha
