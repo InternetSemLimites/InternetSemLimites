@@ -25,12 +25,14 @@ This repo is focused on creating an open catalog of companies [who are not adher
 |----------|-------|-------------|
 | [Mob Telecom](http://www.mobtelecom.com.br/) | https://archive.is/v5Ajk | &nbsp; |
 | [Vox Conexão](http://www.voxconexao.com.br/) | http://archive.is/Hv8xL | &nbsp; |
+| [Vox Conexão](http://www.voxconexao.com.br) | http://archive.is/WROSM | Montes Claros - MG, Sete Lagoas - MG e Vitória da Conquista - BA |
 
 ## Paraíba
 
 | Provedor | Fonte | Observações |
 |----------|-------|-------------|
 | [BR27](http://www.br27.com.br/) | https://archive.is/rggZG | &nbsp; |
+| [Brisanet](http://www.brisanet.com.br) | http://archive.is/eQgcJ | &nbsp; |
 | [Voax Telecom](http://www.voax.com.br) | http://archive.is/n0MDU | Guarabira - PB |
 
 ## Pernambuco
@@ -44,6 +46,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 
 | Provedor | Fonte | Observações |
 |----------|-------|-------------|
+| [Brisanet](http://www.brisanet.com.br) | http://archive.is/eQgcJ | &nbsp; |
 | [Cabo Telecom](http://cabotelecom.com.br) | https://archive.is/fsw4q | Natal |
 | [Mob Telecom](http://www.mobtelecom.com.br/) | https://archive.is/v5Ajk | &nbsp; |
 
@@ -77,6 +80,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 
 | Provedor | Fonte | Observações |
 |----------|-------|-------------|
+| [Brisanet](http://www.brisanet.com.br) | http://archive.is/eQgcJ | &nbsp; |
 | [Mob Telecom](http://www.mobtelecom.com.br/) | https://archive.is/v5Ajk | &nbsp; |
 | [Multiplay Telecom](http://www.multiplaytelecom.com.br/) | https://archive.is/aLHyp | &nbsp; |
 
@@ -85,6 +89,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 | Provedor | Fonte | Observações |
 |----------|-------|-------------|
 | [Algar Telecom](http://www.algartelecom.com.br/) | https://archive.is/I7kDd | &nbsp; |
+| [Vox Conexão](http://www.voxconexao.com.br) | http://archive.is/WROSM | Montes Claros - MG, Sete Lagoas - MG e Vitória da Conquista - BA |
 
 ## Santa Catarina
 
