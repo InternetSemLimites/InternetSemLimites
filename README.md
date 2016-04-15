@@ -85,6 +85,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 | [Algar Telecom](http://www.algartelecom.com.br/) | https://archive.is/I7kDd | &nbsp; |
 | [Ampernet Telecom](http://www.ampernet.com.br/) | http://archive.is/QoLHp | Região Sudoeste do Paraná |
 | [Copel Telecom](http://www.copeltelecom.com/) | https://archive.is/YWaqe | &nbsp; |
+| [Internet By Sercomtel](http://www.sercomtel.com.br/) | http://archive.is/zir3d | Londrina e Região |
 | [World Line Net](http://www.wln.com.br/) | https://archive.is/EyE6N | Região Sudoeste do Paraná |
 
 ## Pernambuco
