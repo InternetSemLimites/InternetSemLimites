@@ -59,6 +59,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 | Provedor | Fonte | Observações |
 |----------|-------|-------------|
 | [Algar Telecom](http://www.algartelecom.com.br/) | https://archive.is/I7kDd | &nbsp; |
+| [Conectv](http://www.conectv.com.br/) | http://archive.is/u5FfF | Norte de Minas |
 | [Vox Conexão](http://www.voxconexao.com.br) | http://archive.is/WROSM | Montes Claros - MG, Sete Lagoas - MG e Vitória da Conquista - BA |
 
 ## Pará
