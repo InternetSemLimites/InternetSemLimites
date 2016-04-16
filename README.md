@@ -78,6 +78,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 
 | Provedor | Fonte | Observações |
 |----------|-------|-------------|
+| [Acessa.com](http://acessa.com) | http://archive.is/aKZMI | Juiz de Fora |
 | [Algar Telecom](http://www.algartelecom.com.br/) | https://archive.is/I7kDd | &nbsp; |
 | [BLUE](http://www.blue.tv.br/) | http://archive.is/Rsyy8 | Brusque, Cachoeiro do Itapemirim, Campos dos Goytacazes, Conselheiro Lafaiete, Contagem, Dourados, Ipatinga, Itajaí, Itapema, etc |
 | [Conectv](http://www.conectv.com.br/) | http://archive.is/u5FfF | Norte de Minas |
@@ -158,6 +159,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 | [Vetorial.net](http://www.vetorial.net) | http://archive.is/bIHVY | Rio Grande, Pelotas, Cassino |
 | [VGI Telecom](http://www.vgi.net.br) | http://archive.is/Qf1zo | Barros Cassal e região do Vale do Rio Pardo |
 | [Viavale Telecom](http://www.viavale.com.br/) | https://archive.is/8BofM | Santa Cruz do Sul |
+| [Viu Telecom](http://www.viutelecom.com.br/) | http://archive.is/5MSRp | Osório, Atlântida Sul, Tramandaí, Imbé, Capão da Canoa, Xangri-lá, Capão Novo |
 
 ## Rondônia
 
