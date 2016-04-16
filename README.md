@@ -13,11 +13,26 @@ This repo is focused on creating an open catalog of companies [who are not adher
 
 ---
 
+## Acre
+
+| Provedor | Fonte | Observações |
+|----------|-------|-------------|
+
 ## Alagoas
 
 | Provedor | Fonte | Observações |
 |----------|-------|-------------|
 | [JG NET](http://www.jgnet.com.br/) | http://archive.is/9ca2B | &nbsp; |
+
+## Amapá
+
+| Provedor | Fonte | Observações |
+|----------|-------|-------------|
+
+## Amazonas
+
+| Provedor | Fonte | Observações |
+|----------|-------|-------------|
 
 ## Bahia
 
@@ -166,6 +181,11 @@ This repo is focused on creating an open catalog of companies [who are not adher
 | Provedor | Fonte | Observações |
 |----------|-------|-------------|
 | [BLUE](http://www.blue.tv.br/) | http://archive.is/Rsyy8 | Brusque, Cachoeiro do Itapemirim, Campos dos Goytacazes, Conselheiro Lafaiete, Contagem, Dourados, Ipatinga, Itajaí, Itapema, etc |
+
+## Roraima
+
+| Provedor | Fonte | Observações |
+|----------|-------|-------------|
 
 ## Santa Catarina
 
