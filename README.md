@@ -193,9 +193,9 @@ This repo is focused on creating an open catalog of companies [who are not adher
 |----------|-------|-------------|
 | [Algar Telecom](http://www.algartelecom.com.br/) | https://archive.is/I7kDd | &nbsp; |
 | [BLUE](http://www.blue.tv.br/) | http://archive.is/Rsyy8 | Brusque, Cachoeiro do Itapemirim, Campos dos Goytacazes, Conselheiro Lafaiete, Contagem, Dourados, Ipatinga, Itajaí, Itapema, etc |
-| [Experts Telecom](http://www.expertsinformatica.com.br) | http://archive.is/YLyVF | &nbsp; |
+| [Experts Telecom](http://www.expertsinformatica.com.br) | http://archive.is/YLyVF | Brunópolis, Campos Novos, Curitibanos, Frei Rogério, Lebom Regis, Mirin Doce, Otacílio Costa, Ponte Alta do Norte, Ponte Alta do Sul, Pouso Redondo, Santa Cecília, São Cristovão, Taió |
 | [Naxi](http://www.naxi.com.br/) | https://archive.is/nclhr | Jaraguá do Sul |
-| [Unifique](https://unifique.com.br/) | https://archive.is/LMadi | &nbsp; |
+| [Unifique](https://unifique.com.br/) | https://archive.is/LMadi | Apenas para condomínios em algumas áreas. |
 
 ## São Paulo
 
