@@ -84,6 +84,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 | [Master](http://novo.mastercabo.com.br/) | http://archive.is/ZR6qp | &nbsp; |
 | [Micropic](http://www.micropic.com.br) | http://archive.is/Bcsqu | Sul de Minas |
 | [Powerline Internet](http://www.powerline.com.br) | http://archive.is/lT4q6 | Juiz de Fora, Bicas, Lima Duarte, Maripá de MInas, Olaria, Guarará, Mar de Espanha, Matias Barbosa e Simão Pereira |
+| [Acessa.com](http://www.acessa.com) | https://archive.is/hu2xl | Juiz de Fora |
 | [Vox Conexão](http://www.voxconexao.com.br) | http://archive.is/WROSM | Montes Claros - MG, Sete Lagoas - MG e Vitória da Conquista - BA |
 
 ## Pará
