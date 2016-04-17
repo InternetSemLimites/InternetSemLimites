@@ -60,7 +60,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 
 | Provedor | Fonte | Observações |
 |----------|-------|-------------|
-| [BLUE](http://www.blue.tv.br/) | http://archive.is/Rsyy8 | Brusque, Cachoeiro do Itapemirim, Campos dos Goytacazes, Conselheiro Lafaiete, Contagem, Dourados, Ipatinga, Itajaí, Itapema, etc |
+| [BLUE](http://www.blue.tv.br/) | http://archive.is/Rsyy8 | Cachoeiro do Itapemirim, Serra |
 
 ## Goiás
 
@@ -80,14 +80,14 @@ This repo is focused on creating an open catalog of companies [who are not adher
 
 | Provedor | Fonte | Observações |
 |----------|-------|-------------|
-| [BLUE](http://www.blue.tv.br/) | http://archive.is/Rsyy8 | Brusque, Cachoeiro do Itapemirim, Campos dos Goytacazes, Conselheiro Lafaiete, Contagem, Dourados, Ipatinga, Itajaí, Itapema, etc |
+| [BLUE](http://www.blue.tv.br/) | http://archive.is/Rsyy8 | Rondonópolis |
 
 ## Mato Grosso do Sul
 
 | Provedor | Fonte | Observações |
 |----------|-------|-------------|
 | [Algar Telecom](http://www.algartelecom.com.br/) | https://archive.is/I7kDd | &nbsp; |
-| [BLUE](http://www.blue.tv.br/) | http://archive.is/Rsyy8 | Brusque, Cachoeiro do Itapemirim, Campos dos Goytacazes, Conselheiro Lafaiete, Contagem, Dourados, Ipatinga, Itajaí, Itapema, etc |
+| [BLUE](http://www.blue.tv.br/) | http://archive.is/Rsyy8 | Dourados |
 
 ## Minas Gerais
 
@@ -95,7 +95,8 @@ This repo is focused on creating an open catalog of companies [who are not adher
 |----------|-------|-------------|
 | [Acessa.com](http://acessa.com) | http://archive.is/aKZMI | Juiz de Fora |
 | [Algar Telecom](http://www.algartelecom.com.br/) | https://archive.is/I7kDd | &nbsp; |
-| [BLUE](http://www.blue.tv.br/) | http://archive.is/Rsyy8 | Brusque, Cachoeiro do Itapemirim, Campos dos Goytacazes, Conselheiro Lafaiete, Contagem, Dourados, Ipatinga, Itajaí, Itapema, etc |
+| [BLUE](http://www.blue.tv.br/) | http://archive.is/Rsyy8 | Conselheiro Lafaiete, Contagem, Ipatinga, Ituiutaba, Sete Lagoas, Teófilo Otoni, Uberaba, Varginha |
+
 | [Conectv](http://www.conectv.com.br/) | http://archive.is/u5FfF | Norte de Minas |
 | [Master](http://novo.mastercabo.com.br/) | http://archive.is/ZR6qp | &nbsp; |
 | [Micropic](http://www.micropic.com.br) | http://archive.is/Bcsqu | Sul de Minas |
@@ -123,7 +124,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 |----------|-------|-------------|
 | [Algar Telecom](http://www.algartelecom.com.br/) | https://archive.is/I7kDd | &nbsp; |
 | [Ampernet Telecom](http://www.ampernet.com.br/) | http://archive.is/QoLHp | Região Sudoeste do Paraná |
-| [BLUE](http://www.blue.tv.br/) | http://archive.is/Rsyy8 | Brusque, Cachoeiro do Itapemirim, Campos dos Goytacazes, Conselheiro Lafaiete, Contagem, Dourados, Ipatinga, Itajaí, Itapema, etc |
+| [BLUE](http://www.blue.tv.br/) | http://archive.is/Rsyy8 | São José dos Pinhais |
 | [Copel Telecom](http://www.copeltelecom.com/) | https://archive.is/YWaqe | &nbsp; |
 | [DEZ Telecom](http://www.deztelecom.net.br) | http://archive.is/4hA3u | &nbsp; |
 | [Sercomtel](http://www.sercomtel.com.br/) | http://archive.is/EMm95 | Norte do Paraná |
@@ -147,7 +148,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 | Provedor | Fonte | Observações |
 |----------|-------|-------------|
 | [Algar Telecom](http://www.algartelecom.com.br/) | https://archive.is/I7kDd | &nbsp; |
-| [BLUE](http://www.blue.tv.br/) | http://archive.is/Rsyy8 | Brusque, Cachoeiro do Itapemirim, Campos dos Goytacazes, Conselheiro Lafaiete, Contagem, Dourados, Ipatinga, Itajaí, Itapema, etc |
+| [BLUE](http://www.blue.tv.br/) | http://archive.is/Rsyy8 | Campos dos Goytacazes, Macaé, Rio das Ostras |
 | [CR Net](http://www.crnetbrasil.com.br/) | http://archive.is/MfCNl | São Gonçalo no Jardim Catarina e Santa Luzia |
 | [LiveTIM](http://www.livetim.tim.com.br/) | https://archive.is/H5kYp | &nbsp; |
 | [Viaband](http://www.viaband.net.br) | http://archive.is/46KbE | Zona oeste do município do Rio de Janeiro |
@@ -166,7 +167,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 | Provedor | Fonte | Observações |
 |----------|-------|-------------|
 | [Algar Telecom](http://www.algartelecom.com.br/) | https://archive.is/I7kDd | &nbsp; |
-| [BLUE](http://www.blue.tv.br/) | http://archive.is/Rsyy8 | Brusque, Cachoeiro do Itapemirim, Campos dos Goytacazes, Conselheiro Lafaiete, Contagem, Dourados, Ipatinga, Itajaí, Itapema, etc |
+| [BLUE](http://www.blue.tv.br/) | http://archive.is/Rsyy8 | Pelotas, Rio Grande |
 | [Clean Net](http://www.cleannet.com.br/) | http://archive.is/wurzN | &nbsp; |
 | [Giga Internet](http://www.giga.com.br/) | https://archive.is/58NZ5 | &nbsp; |
 | [INB Telecom](http://www.inbtelecom.com.br/) | http://archive.is/uERpb | Santo Antônio da Patrulha, Osório, Tramandaí, Imbé, Cidreira, Balneário Pinhal, Maquiné. |
@@ -180,7 +181,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 
 | Provedor | Fonte | Observações |
 |----------|-------|-------------|
-| [BLUE](http://www.blue.tv.br/) | http://archive.is/Rsyy8 | Brusque, Cachoeiro do Itapemirim, Campos dos Goytacazes, Conselheiro Lafaiete, Contagem, Dourados, Ipatinga, Itajaí, Itapema, etc |
+| [BLUE](http://www.blue.tv.br/) | http://archive.is/Rsyy8 | Porto Velho |
 
 ## Roraima
 
@@ -192,10 +193,10 @@ This repo is focused on creating an open catalog of companies [who are not adher
 | Provedor | Fonte | Observações |
 |----------|-------|-------------|
 | [Algar Telecom](http://www.algartelecom.com.br/) | https://archive.is/I7kDd | &nbsp; |
-| [BLUE](http://www.blue.tv.br/) | http://archive.is/Rsyy8 | Brusque, Cachoeiro do Itapemirim, Campos dos Goytacazes, Conselheiro Lafaiete, Contagem, Dourados, Ipatinga, Itajaí, Itapema, etc |
-| [Experts Telecom](http://www.expertsinformatica.com.br) | http://archive.is/YLyVF | &nbsp; |
+| [BLUE](http://www.blue.tv.br/) | http://archive.is/Rsyy8 | Brusque, Itajaí, Itapema, Navegantes |
+| [Experts Telecom](http://www.expertsinformatica.com.br) | http://archive.is/YLyVF | Brunópolis, Campos Novos, Curitibanos, Frei Rogério, Lebom Regis, Mirin Doce, Otacílio Costa, Ponte Alta do Norte, Ponte Alta do Sul, Pouso Redondo, Santa Cecília, São Cristovão, Taió |
 | [Naxi](http://www.naxi.com.br/) | https://archive.is/nclhr | Jaraguá do Sul |
-| [Unifique](https://unifique.com.br/) | https://archive.is/LMadi | &nbsp; |
+| [Unifique](https://unifique.com.br/) | https://archive.is/LMadi | Apenas para condomínios em algumas áreas. |
 
 ## São Paulo
 
