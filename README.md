@@ -133,6 +133,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 
 | Provedor | Fonte | Observações |
 |----------|-------|-------------|
+| [Hotlink Internet](http://www.hotlink.com.br/) | https://archive.is/sQcUQ | &nbsp; |
 | [Mob Telecom](http://www.mobtelecom.com.br/) | https://archive.is/v5Ajk | &nbsp; |
 | [Vescnet](http://www.vescnet.com.br/) | https://archive.is/XAMlb | &nbsp; |
 
