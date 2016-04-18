@@ -171,7 +171,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 | [BLUE](http://www.blue.tv.br/) | http://archive.is/Rsyy8 | Brusque, Cachoeiro do Itapemirim, Campos dos Goytacazes, Conselheiro Lafaiete, Contagem, Dourados, Ipatinga, Itajaí, Itapema, etc |
 | [Clean Net](http://www.cleannet.com.br/) | http://archive.is/wurzN | Região Metropolitana de Porto Alegre |
 | [D1 Telecom](http://www.d1telecom.com.br) | https://archive.is/Ega0R | &nbsp; |
-| [Giga Internet](http://www.giga.com.br/) | https://archive.is/58NZ5 | &nbsp; |
+| [Giga Internet](http://www.giga.com.br/) | https://archive.is/58NZ5 | Viamão, Canela, Gramado, Três Coroas, Igrejinha, São Francisco de Paula, Gravataí, Cachoeirinha, Glorinha, Porto Alegre, Guaíba, Eldorado do Sul, Canoas, Esteio, Sapucaia do Sul, São Leopoldo, Novo Hamburgo, Estância Velha.|
 | [INB Telecom](http://www.inbtelecom.com.br/) | http://archive.is/uERpb | Santo Antônio da Patrulha, Osório, Tramandaí, Imbé, Cidreira, Balneário Pinhal, Maquiné. |
 | [RBT Internet](http://rbt.psi.br/) | https://archive.is/iQ1At | Gramado, Nova Petropolis, Santa Maria do Herval, Morro Reuter, Nova Hartz, Canela e Ararica |
 | [Renovare Telecom](http://www.renovaretelecom.com.br/) | http://archive.is/ePr9J | &nbsp; |
