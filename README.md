@@ -222,6 +222,12 @@ This repo is focused on creating an open catalog of companies [who are not adher
 |----------|-------|-------------|
 | [Midix Tecnologia](http://www.midix.com.br) | http://archive.is/cQ0TO | &nbsp; |
 
+## Teresópolis
+
+| Provedor | Fonte | Observações |
+|----------|-------|-------------|
+| [Sumicity](http://sumicity.com.br) |  &nbsp; |
+
 
 # Painel da Vergonha
 
