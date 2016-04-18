@@ -210,6 +210,12 @@ This repo is focused on creating an open catalog of companies [who are not adher
 | [Netion](http://www.netiontelecom.com.br) | http://archive.is/s18rc | Atende algumas cidades da Baixada Santista com tecnologia fibra ótica e via rádio. |
 | [Sistemax Brasil ( Wiix Internet )](http://www.wiix.com.br) | https://archive.is/in3fo | &nbsp; |
 
+#### Poá
+- Americanet ([Site](http://www.americanet.com.br/) - [Fonte](http://archive.is/4NAlY))
+
+#### Santa Isabel
+- Americanet ([Site](http://www.americanet.com.br/) - [Fonte](http://archive.is/4NAlY))
+
 ## Sergipe
 
 | Provedor | Fonte | Observações |
