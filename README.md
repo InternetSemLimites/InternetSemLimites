@@ -13,26 +13,17 @@ This repo is focused on creating an open catalog of companies [who are not adher
 
 ---
 
-## Acre
-
-| Provedor | Fonte | Observações |
-|----------|-------|-------------|
-
 ## Alagoas
 
 | Provedor | Fonte | Observações |
 |----------|-------|-------------|
 | [JG NET](http://www.jgnet.com.br/) | http://archive.is/9ca2B | &nbsp; |
 
-## Amapá
-
-| Provedor | Fonte | Observações |
-|----------|-------|-------------|
-
 ## Amazonas
 
 | Provedor | Fonte | Observações |
 |----------|-------|-------------|
+| [Stamp CyberLan](https://www.facebook.com/stamp.cyberlan) | https://archive.is/sW89X | Humaitá |
 
 ## Bahia
 
@@ -40,12 +31,14 @@ This repo is focused on creating an open catalog of companies [who are not adher
 |----------|-------|-------------|
 | [Mob Telecom](http://www.mobtelecom.com.br/) | https://archive.is/v5Ajk | &nbsp; |
 | [Vox Conexão](http://www.voxconexao.com.br) | http://archive.is/WROSM | Montes Claros - MG, Sete Lagoas - MG e Vitória da Conquista - BA |
+| [Vox Conexão](http://www.voxconexao.com.br/) | http://archive.is/Hv8xL | &nbsp; |
 
 ## Ceará
 
 | Provedor | Fonte | Observações |
 |----------|-------|-------------|
 | [Brisanet](http://www.brisanet.com.br) | http://archive.is/eQgcJ | &nbsp; |
+| [Inova Telecom](http://www.inovatelecom.net.br/) | http://archive.is/bHnec | &nbsp; |
 | [Mob Telecom](http://www.mobtelecom.com.br/) | https://archive.is/v5Ajk | &nbsp; |
 | [Multiplay Telecom](http://www.multiplaytelecom.com.br/) | https://archive.is/aLHyp | &nbsp; |
 
@@ -88,6 +81,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 |----------|-------|-------------|
 | [Algar Telecom](http://www.algartelecom.com.br/) | https://archive.is/I7kDd | &nbsp; |
 | [BLUE](http://www.blue.tv.br/) | http://archive.is/Rsyy8 | Brusque, Cachoeiro do Itapemirim, Campos dos Goytacazes, Conselheiro Lafaiete, Contagem, Dourados, Ipatinga, Itajaí, Itapema, etc |
+| [Sistemax Brasil ( Wiix Internet )](http://www.wiix.com.br) | https://archive.is/in3fo | &nbsp; |
 
 ## Minas Gerais
 
@@ -100,6 +94,8 @@ This repo is focused on creating an open catalog of companies [who are not adher
 | [Master](http://novo.mastercabo.com.br/) | http://archive.is/ZR6qp | &nbsp; |
 | [Micropic](http://www.micropic.com.br) | http://archive.is/Bcsqu | Sul de Minas |
 | [Powerline Internet](http://www.powerline.com.br) | http://archive.is/lT4q6 | Juiz de Fora, Bicas, Lima Duarte, Maripá de MInas, Olaria, Guarará, Mar de Espanha, Matias Barbosa e Simão Pereira |
+| [Regis Net Informática](http://regisnet.com.br/index.php) | https://archive.is/uWd1W | Pedralva, Conceição das Pedras, Natércia e Cristina. |
+| [Sistemax Brasil ( Wiix Internet )](http://www.wiix.com.br) | https://archive.is/in3fo | &nbsp; |
 | [Vox Conexão](http://www.voxconexao.com.br) | http://archive.is/WROSM | Montes Claros - MG, Sete Lagoas - MG e Vitória da Conquista - BA |
 
 ## Pará
@@ -126,7 +122,11 @@ This repo is focused on creating an open catalog of companies [who are not adher
 | [BLUE](http://www.blue.tv.br/) | http://archive.is/Rsyy8 | Brusque, Cachoeiro do Itapemirim, Campos dos Goytacazes, Conselheiro Lafaiete, Contagem, Dourados, Ipatinga, Itajaí, Itapema, etc |
 | [Copel Telecom](http://www.copeltelecom.com/) | https://archive.is/YWaqe | &nbsp; |
 | [DEZ Telecom](http://www.deztelecom.net.br) | http://archive.is/4hA3u | &nbsp; |
+| [Ligue Telecom](http://www.liguetelecom.com.br/) | http://archive.is/zYWgP | Campo Mourão e Região |
+| [Opção Telecom](https://www.opcaonet.com.br/) | https://www.facebook.com/opcaotelecomoficial/photos/a.337959699553108.105964.318105834871828/1315285388487196/ | Marechal C. Rondon, Nova Santa Rosa, Palotina e, brevemente, em Toledo. |
+| [Radius Telecom](http://www.radiustelecom.net.br:8091/index.php) | https://archive.is/Y2sni | Piraquara |
 | [Sercomtel](http://www.sercomtel.com.br/) | http://archive.is/EMm95 | Norte do Paraná |
+| [Sistemax Brasil ( Wiix Internet )](http://www.wiix.com.br) | https://archive.is/in3fo | &nbsp; |
 | [World Line Net](http://www.wln.com.br/) | https://archive.is/EyE6N | Região Sudoeste do Paraná |
 
 ## Pernambuco
@@ -150,7 +150,9 @@ This repo is focused on creating an open catalog of companies [who are not adher
 | [BLUE](http://www.blue.tv.br/) | http://archive.is/Rsyy8 | Brusque, Cachoeiro do Itapemirim, Campos dos Goytacazes, Conselheiro Lafaiete, Contagem, Dourados, Ipatinga, Itajaí, Itapema, etc |
 | [CR Net](http://www.crnetbrasil.com.br/) | http://archive.is/MfCNl | São Gonçalo no Jardim Catarina e Santa Luzia |
 | [LiveTIM](http://www.livetim.tim.com.br/) | https://archive.is/H5kYp | &nbsp; |
+| [Sistemax Brasil ( Wiix Internet )](http://www.wiix.com.br) | https://archive.is/in3fo | &nbsp; |
 | [Viaband](http://www.viaband.net.br) | http://archive.is/46KbE | Zona oeste do município do Rio de Janeiro |
+| [WCInternet](http://www.wcinternet.com.br) | http://archive.is/ZfS2m | Bairro Campo Grande (RJ) e região |
 
 ## Rio Grande do Norte
 
@@ -167,12 +169,14 @@ This repo is focused on creating an open catalog of companies [who are not adher
 |----------|-------|-------------|
 | [Algar Telecom](http://www.algartelecom.com.br/) | https://archive.is/I7kDd | &nbsp; |
 | [BLUE](http://www.blue.tv.br/) | http://archive.is/Rsyy8 | Brusque, Cachoeiro do Itapemirim, Campos dos Goytacazes, Conselheiro Lafaiete, Contagem, Dourados, Ipatinga, Itajaí, Itapema, etc |
-| [Clean Net](http://www.cleannet.com.br/) | http://archive.is/wurzN | &nbsp; |
+| [Clean Net](http://www.cleannet.com.br/) | http://archive.is/wurzN | Região Metropolitana de Porto Alegre |
+| [D1 Telecom](http://www.d1telecom.com.br) | https://archive.is/Ega0R | &nbsp; |
 | [Giga Internet](http://www.giga.com.br/) | https://archive.is/58NZ5 | &nbsp; |
 | [INB Telecom](http://www.inbtelecom.com.br/) | http://archive.is/uERpb | Santo Antônio da Patrulha, Osório, Tramandaí, Imbé, Cidreira, Balneário Pinhal, Maquiné. |
+| [RBT Internet](http://rbt.psi.br/) | https://archive.is/iQ1At | Gramado, Nova Petropolis, Santa Maria do Herval, Morro Reuter, Nova Hartz, Canela e Ararica |
 | [Renovare Telecom](http://www.renovaretelecom.com.br/) | http://archive.is/ePr9J | &nbsp; |
+| [Sebratel](http://www.sebratel.com.br) | https://archive.is/GxvL4 | Três Coroas, Igrejinha, Taquara, Esteio, Campo Bom, Novo Hamburgo, Sapiranga, Araricá, Parobé, Triunfo, Nova Santa Rita, Brochier, Gaurama, |
 | [Vetorial.net](http://www.vetorial.net) | http://archive.is/bIHVY | Rio Grande, Pelotas, Cassino |
-| [VGI Telecom](http://www.vgi.net.br) | http://archive.is/Qf1zo | Barros Cassal e região do Vale do Rio Pardo |
 | [Viavale Telecom](http://www.viavale.com.br/) | https://archive.is/8BofM | Santa Cruz do Sul |
 | [Viu Telecom](http://www.viutelecom.com.br/) | http://archive.is/5MSRp | Osório, Atlântida Sul, Tramandaí, Imbé, Capão da Canoa, Xangri-lá, Capão Novo |
 
@@ -182,19 +186,17 @@ This repo is focused on creating an open catalog of companies [who are not adher
 |----------|-------|-------------|
 | [BLUE](http://www.blue.tv.br/) | http://archive.is/Rsyy8 | Brusque, Cachoeiro do Itapemirim, Campos dos Goytacazes, Conselheiro Lafaiete, Contagem, Dourados, Ipatinga, Itajaí, Itapema, etc |
 
-## Roraima
-
-| Provedor | Fonte | Observações |
-|----------|-------|-------------|
-
 ## Santa Catarina
 
 | Provedor | Fonte | Observações |
 |----------|-------|-------------|
 | [Algar Telecom](http://www.algartelecom.com.br/) | https://archive.is/I7kDd | &nbsp; |
 | [BLUE](http://www.blue.tv.br/) | http://archive.is/Rsyy8 | Brusque, Cachoeiro do Itapemirim, Campos dos Goytacazes, Conselheiro Lafaiete, Contagem, Dourados, Ipatinga, Itajaí, Itapema, etc |
+| [Contato Internet](http://www.contato.net/) | https://archive.is/Y2sni | Vale do Araranguá |
 | [Experts Telecom](http://www.expertsinformatica.com.br) | http://archive.is/YLyVF | &nbsp; |
 | [Naxi](http://www.naxi.com.br/) | https://archive.is/nclhr | Jaraguá do Sul |
+| [Sistemax Brasil ( Wiix Internet )](http://www.wiix.com.br) | https://archive.is/in3fo | &nbsp; |
+| [TboNet](https://www.facebook.com/tbo.net.5/) | https://archive.is/arQ0S | &nbsp; |
 | [Unifique](https://unifique.com.br/) | https://archive.is/LMadi | &nbsp; |
 
 ## São Paulo
@@ -206,6 +208,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 | [LiveTIM](http://www.livetim.tim.com.br/) | https://archive.is/H5kYp | &nbsp; |
 | [Master](http://novo.mastercabo.com.br/) | http://archive.is/ZR6qp | &nbsp; |
 | [Netion](http://www.netiontelecom.com.br) | http://archive.is/s18rc | Atende algumas cidades da Baixada Santista com tecnologia fibra ótica e via rádio. |
+| [Sistemax Brasil ( Wiix Internet )](http://www.wiix.com.br) | https://archive.is/in3fo | &nbsp; |
 
 ## Sergipe
 
