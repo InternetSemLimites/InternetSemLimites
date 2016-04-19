@@ -31,7 +31,6 @@ This repo is focused on creating an open catalog of companies [who are not adher
 |----------|-------|-------------|
 | [Mob Telecom](http://www.mobtelecom.com.br/) | https://archive.is/v5Ajk | &nbsp; |
 | [Vox Conexão](http://www.voxconexao.com.br) | http://archive.is/WROSM | Montes Claros - MG, Sete Lagoas - MG e Vitória da Conquista - BA |
-| [Vox Conexão](http://www.voxconexao.com.br/) | http://archive.is/Hv8xL | &nbsp; |
 
 ## Ceará
 
@@ -81,7 +80,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 |----------|-------|-------------|
 | [Algar Telecom](http://www.algartelecom.com.br/) | https://archive.is/I7kDd | &nbsp; |
 | [BLUE](http://www.blue.tv.br/) | http://archive.is/Rsyy8 | Brusque, Cachoeiro do Itapemirim, Campos dos Goytacazes, Conselheiro Lafaiete, Contagem, Dourados, Ipatinga, Itajaí, Itapema, etc |
-| [Sistemax Brasil ( Wiix Internet )](http://www.wiix.com.br) | https://archive.is/in3fo | &nbsp; |
+| [Sistemax Brasil (Wiix Internet)](http://www.wiix.com.br) | https://archive.is/in3fo | &nbsp; |
 
 ## Minas Gerais
 
@@ -95,7 +94,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 | [Micropic](http://www.micropic.com.br) | http://archive.is/Bcsqu | Sul de Minas |
 | [Powerline Internet](http://www.powerline.com.br) | http://archive.is/lT4q6 | Juiz de Fora, Bicas, Lima Duarte, Maripá de MInas, Olaria, Guarará, Mar de Espanha, Matias Barbosa e Simão Pereira |
 | [Regis Net Informática](http://regisnet.com.br/index.php) | https://archive.is/uWd1W | Pedralva, Conceição das Pedras, Natércia e Cristina. |
-| [Sistemax Brasil ( Wiix Internet )](http://www.wiix.com.br) | https://archive.is/in3fo | &nbsp; |
+| [Sistemax Brasil (Wiix Internet)](http://www.wiix.com.br) | https://archive.is/in3fo | &nbsp; |
 | [Vox Conexão](http://www.voxconexao.com.br) | http://archive.is/WROSM | Montes Claros - MG, Sete Lagoas - MG e Vitória da Conquista - BA |
 
 ## Pará
@@ -126,7 +125,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 | [Opção Telecom](https://www.opcaonet.com.br/) | https://www.facebook.com/opcaotelecomoficial/photos/a.337959699553108.105964.318105834871828/1315285388487196/ | Marechal C. Rondon, Nova Santa Rosa, Palotina e, brevemente, em Toledo. |
 | [Radius Telecom](http://www.radiustelecom.net.br:8091/index.php) | https://archive.is/Y2sni | Piraquara |
 | [Sercomtel](http://www.sercomtel.com.br/) | http://archive.is/EMm95 | Norte do Paraná |
-| [Sistemax Brasil ( Wiix Internet )](http://www.wiix.com.br) | https://archive.is/in3fo | &nbsp; |
+| [Sistemax Brasil (Wiix Internet)](http://www.wiix.com.br) | https://archive.is/in3fo | &nbsp; |
 | [World Line Net](http://www.wln.com.br/) | https://archive.is/EyE6N | Região Sudoeste do Paraná |
 
 ## Pernambuco
@@ -150,7 +149,8 @@ This repo is focused on creating an open catalog of companies [who are not adher
 | [BLUE](http://www.blue.tv.br/) | http://archive.is/Rsyy8 | Brusque, Cachoeiro do Itapemirim, Campos dos Goytacazes, Conselheiro Lafaiete, Contagem, Dourados, Ipatinga, Itajaí, Itapema, etc |
 | [CR Net](http://www.crnetbrasil.com.br/) | http://archive.is/MfCNl | São Gonçalo no Jardim Catarina e Santa Luzia |
 | [LiveTIM](http://www.livetim.tim.com.br/) | https://archive.is/H5kYp | &nbsp; |
-| [Sistemax Brasil ( Wiix Internet )](http://www.wiix.com.br) | https://archive.is/in3fo | &nbsp; |
+| [Niitnet](http://www.nitnet.com.br/) | http://archive.is/4qpIZ | Niterói, São Gonçalo, Itaboraí, Magé, Maricá (Itaipuaçú), Rio de Janeiro e Baixada Fluminense |
+| [Sistemax Brasil (Wiix Internet)](http://www.wiix.com.br) | https://archive.is/in3fo | &nbsp; |
 | [Viaband](http://www.viaband.net.br) | http://archive.is/46KbE | Zona oeste do município do Rio de Janeiro |
 | [WCInternet](http://www.wcinternet.com.br) | http://archive.is/ZfS2m | Bairro Campo Grande (RJ) e região |
 
@@ -170,6 +170,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 | [Algar Telecom](http://www.algartelecom.com.br/) | https://archive.is/I7kDd | &nbsp; |
 | [BLUE](http://www.blue.tv.br/) | http://archive.is/Rsyy8 | Brusque, Cachoeiro do Itapemirim, Campos dos Goytacazes, Conselheiro Lafaiete, Contagem, Dourados, Ipatinga, Itajaí, Itapema, etc |
 | [Clean Net](http://www.cleannet.com.br/) | http://archive.is/wurzN | Região Metropolitana de Porto Alegre |
+| [Coprel Telecom Ltda - Triway](http://www.triway.net.br) | https://archive.is/NqKVG | Região de Cruz Alta, Ernestina, Ibirubá, Não-Me-Toque, Panambi, Passo Fundo, Selbach, Tapera e Tapejara. |
 | [D1 Telecom](http://www.d1telecom.com.br) | https://archive.is/Ega0R | &nbsp; |
 | [Giga Internet](http://www.giga.com.br/) | https://archive.is/58NZ5 | &nbsp; |
 | [INB Telecom](http://www.inbtelecom.com.br/) | http://archive.is/uERpb | Santo Antônio da Patrulha, Osório, Tramandaí, Imbé, Cidreira, Balneário Pinhal, Maquiné. |
@@ -191,11 +192,12 @@ This repo is focused on creating an open catalog of companies [who are not adher
 | Provedor | Fonte | Observações |
 |----------|-------|-------------|
 | [Algar Telecom](http://www.algartelecom.com.br/) | https://archive.is/I7kDd | &nbsp; |
+| [AltoValeNet](http://www.altovalenet.com.br/) | https://archive.is/wUohu | &nbsp; |
 | [BLUE](http://www.blue.tv.br/) | http://archive.is/Rsyy8 | Brusque, Cachoeiro do Itapemirim, Campos dos Goytacazes, Conselheiro Lafaiete, Contagem, Dourados, Ipatinga, Itajaí, Itapema, etc |
 | [Contato Internet](http://www.contato.net/) | https://archive.is/Y2sni | Vale do Araranguá |
 | [Experts Telecom](http://www.expertsinformatica.com.br) | http://archive.is/YLyVF | &nbsp; |
 | [Naxi](http://www.naxi.com.br/) | https://archive.is/nclhr | Jaraguá do Sul |
-| [Sistemax Brasil ( Wiix Internet )](http://www.wiix.com.br) | https://archive.is/in3fo | &nbsp; |
+| [Sistemax Brasil (Wiix Internet)](http://www.wiix.com.br) | https://archive.is/in3fo | &nbsp; |
 | [TboNet](https://www.facebook.com/tbo.net.5/) | https://archive.is/arQ0S | &nbsp; |
 | [Unifique](https://unifique.com.br/) | https://archive.is/LMadi | &nbsp; |
 
@@ -208,7 +210,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 | [LiveTIM](http://www.livetim.tim.com.br/) | https://archive.is/H5kYp | &nbsp; |
 | [Master](http://novo.mastercabo.com.br/) | http://archive.is/ZR6qp | &nbsp; |
 | [Netion](http://www.netiontelecom.com.br) | http://archive.is/s18rc | Atende algumas cidades da Baixada Santista com tecnologia fibra ótica e via rádio. |
-| [Sistemax Brasil ( Wiix Internet )](http://www.wiix.com.br) | https://archive.is/in3fo | &nbsp; |
+| [Sistemax Brasil (Wiix Internet)](http://www.wiix.com.br) | https://archive.is/in3fo | &nbsp; |
 
 ## Sergipe
 
