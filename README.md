@@ -4,9 +4,9 @@
 
 Repositório que busca catalogar e organizar os provedores de internet que não limitarão o tráfego de dados.
 
-Para cadastrar um novo provedor utilize [esse formulário](https://internetsemlimites.herokuapp.com/new/).
-
-Os dados estão disponíveis também em uma [API pública](http://github.com/cuducos/InternetSemLimitesCMS). Se você pensa em fazer algo, um site, um app, um SPA com os dados, [junte-se a nós](https://github.com/jlcarvalho/InternetSemLimites/issues/9).
+* Nosso site é [internetsemlimites.github.io](http://internetsemlimites.github.io)
+* Cadastre um novo provedor [nesse formulário](https://internetsemlimites.herokuapp.com/new/)
+* Use os dados através da [API pública](http://github.com/InternetSemLimites/PublicAPI)
 
 ---
 This repo is focused on creating an open catalog of companies [who are not adhering to data cap in Brazil](http://www.zdnet.com/article/brazilians-protest-against-fixed-broadband-data-cap/).
@@ -124,7 +124,6 @@ This repo is focused on creating an open catalog of companies [who are not adher
 | [Ligue Telecom](http://www.liguetelecom.com.br/) | http://archive.is/zYWgP | Campo Mourão e Região |
 | [Opção Telecom](https://www.opcaonet.com.br/) | https://www.facebook.com/opcaotelecomoficial/photos/a.337959699553108.105964.318105834871828/1315285388487196/ | Marechal C. Rondon, Nova Santa Rosa, Palotina e, brevemente, em Toledo. |
 | [Radius Telecom](http://www.radiustelecom.net.br:8091/index.php) | https://archive.is/Y2sni | Piraquara |
-| [Sercomtel](http://www.sercomtel.com.br/) | http://archive.is/EMm95 | Norte do Paraná |
 | [Sistemax Brasil (Wiix Internet)](http://www.wiix.com.br) | https://archive.is/in3fo | &nbsp; |
 | [World Line Net](http://www.wln.com.br/) | https://archive.is/EyE6N | Região Sudoeste do Paraná |
 
