@@ -123,7 +123,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 | [Copel Telecom](http://www.copeltelecom.com/) | https://archive.is/YWaqe | &nbsp; |
 | [DEZ Telecom](http://www.deztelecom.net.br) | http://archive.is/4hA3u | &nbsp; |
 | [Ligue Telecom](http://www.liguetelecom.com.br/) | http://archive.is/zYWgP | Campo Mourão e Região |
-| [Opção Telecom](https://www.opcaonet.com.br/) | https://www.facebook.com/opcaotelecomoficial/photos/a.337959699553108.105964.318105834871828/1315285388487196/ | Marechal C. Rondon, Nova Santa Rosa, Palotina e, brevemente, em Toledo. |
+| [Opção Telecom](https://www.opcaonet.com.br/) | https://archive.is/NPin7 | Marechal C. Rondon, Nova Santa Rosa, Palotina e, brevemente, em Toledo. |
 | [Radius Telecom](http://www.radiustelecom.net.br:8091/index.php) | https://archive.is/Y2sni | Piraquara |
 | [Sistemax Brasil (Wiix Internet)](http://www.wiix.com.br) | https://archive.is/in3fo | &nbsp; |
 | [World Line Net](http://www.wln.com.br/) | https://archive.is/EyE6N | Região Sudoeste do Paraná |
