@@ -105,6 +105,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 |----------|-------|-------------|
 | [Midix Tecnologia](http://www.midix.com.br) | http://archive.is/cQ0TO | &nbsp; |
 | [Mob Telecom](http://www.mobtelecom.com.br/) | https://archive.is/v5Ajk | &nbsp; |
+| [WSP Telecom](http://www.redewsp.com.br/) | http://archive.is/r44hR | &nbsp; |
 
 ## Paraíba
 
