@@ -91,6 +91,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 | [Algar Telecom](http://www.algartelecom.com.br/) | https://archive.is/I7kDd | &nbsp; |
 | [BLUE](http://www.blue.tv.br/) | http://archive.is/Rsyy8 | Brusque, Cachoeiro do Itapemirim, Campos dos Goytacazes, Conselheiro Lafaiete, Contagem, Dourados, Ipatinga, Itajaí, Itapema, etc |
 | [Conectv](http://www.conectv.com.br/) | http://archive.is/u5FfF | Norte de Minas |
+| [Giganet](http://www.giganetbandalarga.com.br/) | http://archive.is/sz7T4 | Vale do Aço (Ipatinga, Cel. Fabriciano, Timoteo) |
 | [Master](http://novo.mastercabo.com.br/) | http://archive.is/ZR6qp | &nbsp; |
 | [Micropic](http://www.micropic.com.br) | http://archive.is/Bcsqu | Sul de Minas |
 | [Powerline Internet](http://www.powerline.com.br) | http://archive.is/lT4q6 | Juiz de Fora, Bicas, Lima Duarte, Maripá de MInas, Olaria, Guarará, Mar de Espanha, Matias Barbosa e Simão Pereira |
@@ -168,6 +169,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 |----------|-------|-------------|
 | [Algar Telecom](http://www.algartelecom.com.br/) | https://archive.is/I7kDd | &nbsp; |
 | [BLUE](http://www.blue.tv.br/) | http://archive.is/Rsyy8 | Brusque, Cachoeiro do Itapemirim, Campos dos Goytacazes, Conselheiro Lafaiete, Contagem, Dourados, Ipatinga, Itajaí, Itapema, etc |
+| [CertelNET - Soluções em Conectividade](http://www.certelnet.com.br/home/) | http://archive.is/VBHQ3 | Vale do Taquari e Vale do Caí |
 | [Clean Net](http://www.cleannet.com.br/) | http://archive.is/wurzN | Região Metropolitana de Porto Alegre |
 | [Coprel Telecom Ltda - Triway](http://www.triway.net.br) | https://archive.is/NqKVG | Região de Cruz Alta, Ernestina, Ibirubá, Não-Me-Toque, Panambi, Passo Fundo, Selbach, Tapera e Tapejara. |
 | [D1 Telecom](http://www.d1telecom.com.br) | https://archive.is/Ega0R | &nbsp; |
@@ -176,6 +178,8 @@ This repo is focused on creating an open catalog of companies [who are not adher
 | [RBT Internet](http://rbt.psi.br/) | https://archive.is/iQ1At | Gramado, Nova Petropolis, Santa Maria do Herval, Morro Reuter, Nova Hartz, Canela e Ararica |
 | [Renovare Telecom](http://www.renovaretelecom.com.br/) | http://archive.is/ePr9J | &nbsp; |
 | [Sebratel](http://www.sebratel.com.br) | https://archive.is/GxvL4 | Três Coroas, Igrejinha, Taquara, Esteio, Campo Bom, Novo Hamburgo, Sapiranga, Araricá, Parobé, Triunfo, Nova Santa Rita, Brochier, Gaurama, |
+| [Sinos.net](http://www.sinos.net/) | https://archive.is/YoQNP | Novo Hamburgo e demais cidades da região |
+| [Tri Telecom](http://www.tri.com.br) | http://archive.is/qvM2B | Porto Alegre e Grande Porto Alegre |
 | [Vetorial.net](http://www.vetorial.net) | http://archive.is/bIHVY | Rio Grande, Pelotas, Cassino |
 | [Viavale Telecom](http://www.viavale.com.br/) | https://archive.is/8BofM | Santa Cruz do Sul |
 | [Viu Telecom](http://www.viutelecom.com.br/) | http://archive.is/5MSRp | Osório, Atlântida Sul, Tramandaí, Imbé, Capão da Canoa, Xangri-lá, Capão Novo |
