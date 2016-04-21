@@ -40,14 +40,13 @@ This repo is focused on creating an open catalog of companies [who are not adher
 | [Brisanet](http://www.brisanet.com.br) | http://archive.is/eQgcJ | &nbsp; |
 | [Inova Telecom](http://www.inovatelecom.net.br/) | http://archive.is/bHnec | &nbsp; |
 | [Mob Telecom](http://www.mobtelecom.com.br/) | https://archive.is/v5Ajk | &nbsp; |
-| [Multiplay Telecom](http://www.multiplaytelecom.com.br/) | https://archive.is/aLHyp | &nbsp; |
+| [Multiplay Telecom](http://www.multiplaytelecom.com.br/) | https://archive.is/aLHyp | Fortaleza |
 
 ## Distrito Federal
 
 | Provedor | Fonte | Observações |
 |----------|-------|-------------|
 | [Algar Telecom](http://www.algartelecom.com.br/) | https://archive.is/I7kDd | &nbsp; |
-| [Multiplay Telecom](http://www.multiplaytelecom.com.br/) | https://archive.is/aLHyp | &nbsp; |
 
 ## Espírito Santo
 
