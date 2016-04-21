@@ -195,6 +195,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 | Provedor | Fonte | Observações |
 |----------|-------|-------------|
 | [Algar Telecom](http://www.algartelecom.com.br/) | https://archive.is/I7kDd | &nbsp; |
+| [ALT Acessonline Telecomunicações](http://www.alt.net.br) | https://archive.is/umfFY | &nbsp; |
 | [AltoValeNet](http://www.altovalenet.com.br/) | https://archive.is/wUohu | &nbsp; |
 | [BLUE](http://www.blue.tv.br/) | http://archive.is/Rsyy8 | Brusque, Cachoeiro do Itapemirim, Campos dos Goytacazes, Conselheiro Lafaiete, Contagem, Dourados, Ipatinga, Itajaí, Itapema, etc |
 | [Contato Internet](http://www.contato.net/) | https://archive.is/Y2sni | Vale do Araranguá |
