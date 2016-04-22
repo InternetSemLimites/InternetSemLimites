@@ -182,6 +182,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 | [Tri Telecom](http://www.tri.com.br) | http://archive.is/qvM2B | Porto Alegre e Grande Porto Alegre |
 | [Vetorial.net](http://www.vetorial.net) | http://archive.is/bIHVY | Rio Grande, Pelotas, Cassino |
 | [Viavale Telecom](http://www.viavale.com.br/) | https://archive.is/8BofM | Santa Cruz do Sul |
+| [VIP Telecom](http://www.viptelecom.com.br) | http://archive.is/Ah34y | Todo o território do RS |
 | [Viu Telecom](http://www.viutelecom.com.br/) | http://archive.is/5MSRp | Osório, Atlântida Sul, Tramandaí, Imbé, Capão da Canoa, Xangri-lá, Capão Novo |
 
 ## Rondônia
