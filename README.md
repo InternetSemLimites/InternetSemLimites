@@ -152,6 +152,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 | [Niitnet](http://www.nitnet.com.br/) | http://archive.is/4qpIZ | Niterói, São Gonçalo, Itaboraí, Magé, Maricá (Itaipuaçú), Rio de Janeiro e Baixada Fluminense |
 | [Sistemax Brasil (Wiix Internet)](http://www.wiix.com.br) | https://archive.is/in3fo | &nbsp; |
 | [Viaband](http://www.viaband.net.br) | http://archive.is/46KbE | Zona oeste do município do Rio de Janeiro |
+| [ViaLink](http://www.vialinktelecom.com.br) | http://archive.is/qyYON | Duque de Caxias e adjacências |
 | [WCInternet](http://www.wcinternet.com.br) | http://archive.is/ZfS2m | Bairro Campo Grande (RJ) e região |
 
 ## Rio Grande do Norte
