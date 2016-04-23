@@ -67,6 +67,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 | Provedor | Fonte | Observações |
 |----------|-------|-------------|
 | [Mob Telecom](http://www.mobtelecom.com.br/) | https://archive.is/v5Ajk | &nbsp; |
+| [TVN](http://www.tvn.com.br/sao-luis/tvn-internet/) | https://archive.is/FoSH4 | São Luís - MA; Canoas - RS; Cachoeirinha - RS; Esteio - RS; São Leopoldo -RS; Sapucaia do Sul - RS. |
 
 ## Mato Grosso
 
@@ -181,6 +182,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 | [Sebratel](http://www.sebratel.com.br) | https://archive.is/GxvL4 | Três Coroas, Igrejinha, Taquara, Esteio, Campo Bom, Novo Hamburgo, Sapiranga, Araricá, Parobé, Triunfo, Nova Santa Rita, Brochier, Gaurama, |
 | [Sinos.net](http://www.sinos.net/) | https://archive.is/YoQNP | Novo Hamburgo e demais cidades da região |
 | [Tri Telecom](http://www.tri.com.br) | http://archive.is/qvM2B | Porto Alegre e Grande Porto Alegre |
+| [TVN](http://www.tvn.com.br/sao-luis/tvn-internet/) | https://archive.is/FoSH4 | São Luís - MA; Canoas - RS; Cachoeirinha - RS; Esteio - RS; São Leopoldo -RS; Sapucaia do Sul - RS. |
 | [Vetorial.net](http://www.vetorial.net) | http://archive.is/bIHVY | Rio Grande, Pelotas, Cassino |
 | [Viavale Telecom](http://www.viavale.com.br/) | https://archive.is/8BofM | Santa Cruz do Sul |
 | [VIP Telecom](http://www.viptelecom.com.br) | http://archive.is/Ah34y | Todo o território do RS |
