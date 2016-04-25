@@ -46,7 +46,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 
 | Provedor | Fonte | Observações |
 |----------|-------|-------------|
-| [Algar Telecom](http://www.algartelecom.com.br/) | https://archive.is/I7kDd | &nbsp; |
+| [Algar Telecom](http://www.algartelecom.com.br/) | https://archive.is/I7kDd | Usuários reportam que só atendem planos empresariais no DF. |
 
 ## Espírito Santo
 
@@ -58,7 +58,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 
 | Provedor | Fonte | Observações |
 |----------|-------|-------------|
-| [Algar Telecom](http://www.algartelecom.com.br/) | https://archive.is/I7kDd | &nbsp; |
+| [Algar Telecom](http://www.algartelecom.com.br/) | https://archive.is/I7kDd | Usuários reportam que só atendem planos empresariais no DF. |
 | [Telgo Telecom](http://telgo.com.br/) | https://archive.is/2Hm37 | &nbsp; |
 | [Velomax Telecom](http://www.velomax.net) | http://archive.is/kmI5S | &nbsp; |
 
@@ -79,7 +79,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 
 | Provedor | Fonte | Observações |
 |----------|-------|-------------|
-| [Algar Telecom](http://www.algartelecom.com.br/) | https://archive.is/I7kDd | &nbsp; |
+| [Algar Telecom](http://www.algartelecom.com.br/) | https://archive.is/I7kDd | Usuários reportam que só atendem planos empresariais no DF. |
 | [BLUE](http://www.blue.tv.br/) | http://archive.is/Rsyy8 | Brusque, Cachoeiro do Itapemirim, Campos dos Goytacazes, Conselheiro Lafaiete, Contagem, Dourados, Ipatinga, Itajaí, Itapema, etc |
 | [Sistemax Brasil (Wiix Internet)](http://www.wiix.com.br) | https://archive.is/in3fo | &nbsp; |
 
@@ -88,7 +88,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 | Provedor | Fonte | Observações |
 |----------|-------|-------------|
 | [Acessa.com](http://acessa.com) | http://archive.is/aKZMI | Juiz de Fora |
-| [Algar Telecom](http://www.algartelecom.com.br/) | https://archive.is/I7kDd | &nbsp; |
+| [Algar Telecom](http://www.algartelecom.com.br/) | https://archive.is/I7kDd | Usuários reportam que só atendem planos empresariais no DF. |
 | [BLUE](http://www.blue.tv.br/) | http://archive.is/Rsyy8 | Brusque, Cachoeiro do Itapemirim, Campos dos Goytacazes, Conselheiro Lafaiete, Contagem, Dourados, Ipatinga, Itajaí, Itapema, etc |
 | [Conectv](http://www.conectv.com.br/) | http://archive.is/u5FfF | Norte de Minas |
 | [Giganet](http://www.giganetbandalarga.com.br/) | http://archive.is/sz7T4 | Vale do Aço (Ipatinga, Cel. Fabriciano, Timoteo) |
@@ -119,7 +119,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 
 | Provedor | Fonte | Observações |
 |----------|-------|-------------|
-| [Algar Telecom](http://www.algartelecom.com.br/) | https://archive.is/I7kDd | &nbsp; |
+| [Algar Telecom](http://www.algartelecom.com.br/) | https://archive.is/I7kDd | Usuários reportam que só atendem planos empresariais no DF. |
 | [Ampernet Telecom](http://www.ampernet.com.br/) | http://archive.is/QoLHp | Região Sudoeste do Paraná |
 | [BLUE](http://www.blue.tv.br/) | http://archive.is/Rsyy8 | Brusque, Cachoeiro do Itapemirim, Campos dos Goytacazes, Conselheiro Lafaiete, Contagem, Dourados, Ipatinga, Itajaí, Itapema, etc |
 | [Copel Telecom](http://www.copeltelecom.com/) | https://archive.is/YWaqe | &nbsp; |
@@ -146,7 +146,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 
 | Provedor | Fonte | Observações |
 |----------|-------|-------------|
-| [Algar Telecom](http://www.algartelecom.com.br/) | https://archive.is/I7kDd | &nbsp; |
+| [Algar Telecom](http://www.algartelecom.com.br/) | https://archive.is/I7kDd | Usuários reportam que só atendem planos empresariais no DF. |
 | [BLUE](http://www.blue.tv.br/) | http://archive.is/Rsyy8 | Brusque, Cachoeiro do Itapemirim, Campos dos Goytacazes, Conselheiro Lafaiete, Contagem, Dourados, Ipatinga, Itajaí, Itapema, etc |
 | [CR Net](http://www.crnetbrasil.com.br/) | http://archive.is/MfCNl | São Gonçalo no Jardim Catarina e Santa Luzia |
 | [LiveTIM](http://www.livetim.tim.com.br/) | https://archive.is/H5kYp | &nbsp; |
@@ -169,7 +169,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 
 | Provedor | Fonte | Observações |
 |----------|-------|-------------|
-| [Algar Telecom](http://www.algartelecom.com.br/) | https://archive.is/I7kDd | &nbsp; |
+| [Algar Telecom](http://www.algartelecom.com.br/) | https://archive.is/I7kDd | Usuários reportam que só atendem planos empresariais no DF. |
 | [BLUE](http://www.blue.tv.br/) | http://archive.is/Rsyy8 | Brusque, Cachoeiro do Itapemirim, Campos dos Goytacazes, Conselheiro Lafaiete, Contagem, Dourados, Ipatinga, Itajaí, Itapema, etc |
 | [CertelNET - Soluções em Conectividade](http://www.certelnet.com.br/home/) | http://archive.is/VBHQ3 | Vale do Taquari e Vale do Caí |
 | [Clean Net](http://www.cleannet.com.br/) | http://archive.is/wurzN | Região Metropolitana de Porto Alegre |
@@ -198,7 +198,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 
 | Provedor | Fonte | Observações |
 |----------|-------|-------------|
-| [Algar Telecom](http://www.algartelecom.com.br/) | https://archive.is/I7kDd | &nbsp; |
+| [Algar Telecom](http://www.algartelecom.com.br/) | https://archive.is/I7kDd | Usuários reportam que só atendem planos empresariais no DF. |
 | [ALT Acessonline Telecomunicações](http://www.alt.net.br) | https://archive.is/umfFY | &nbsp; |
 | [AltoValeNet](http://www.altovalenet.com.br/) | https://archive.is/wUohu | &nbsp; |
 | [BLUE](http://www.blue.tv.br/) | http://archive.is/Rsyy8 | Brusque, Cachoeiro do Itapemirim, Campos dos Goytacazes, Conselheiro Lafaiete, Contagem, Dourados, Ipatinga, Itajaí, Itapema, etc |
@@ -213,7 +213,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 
 | Provedor | Fonte | Observações |
 |----------|-------|-------------|
-| [Algar Telecom](http://www.algartelecom.com.br/) | https://archive.is/I7kDd | &nbsp; |
+| [Algar Telecom](http://www.algartelecom.com.br/) | https://archive.is/I7kDd | Usuários reportam que só atendem planos empresariais no DF. |
 | [BR27](http://www.br27.com.br/) | https://archive.is/rggZG | &nbsp; |
 | [LiveTIM](http://www.livetim.tim.com.br/) | https://archive.is/H5kYp | &nbsp; |
 | [Master](http://novo.mastercabo.com.br/) | http://archive.is/ZR6qp | &nbsp; |
