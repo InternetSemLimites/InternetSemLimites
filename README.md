@@ -205,6 +205,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 | [Contato Internet](http://www.contato.net/) | https://archive.is/Y2sni | Vale do Araranguá |
 | [Experts Telecom](http://www.expertsinformatica.com.br) | http://archive.is/YLyVF | &nbsp; |
 | [Naxi](http://www.naxi.com.br/) | https://archive.is/nclhr | Jaraguá do Sul |
+| [Neorede Telecom](http://www.neorede.com.br) | http://archive.is/ftrus | Florianópolis, São José, Biguaçu, Palhoça, Tijucas, Paulo Lopes |
 | [Sistemax Brasil (Wiix Internet)](http://www.wiix.com.br) | https://archive.is/in3fo | &nbsp; |
 | [TboNet](https://www.facebook.com/tbo.net.5/) | https://archive.is/arQ0S | &nbsp; |
 | [Unifique](https://unifique.com.br/) | https://archive.is/LMadi | &nbsp; |
