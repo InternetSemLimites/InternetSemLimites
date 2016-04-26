@@ -170,6 +170,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 | Provedor | Fonte | Observações |
 |----------|-------|-------------|
 | [Algar Telecom](http://www.algartelecom.com.br/) | https://archive.is/I7kDd | Usuários reportam que só atendem planos empresariais no DF. |
+| [Bitcom](http://bitcom.psi.br/) | https://archive.is/aowla | Portão, Porto Alegre, Santa Cruz do Sul e Serra Gaúcha no RS / Campos Novos, Lages e Fraiburgo em SC |
 | [BLUE](http://www.blue.tv.br/) | http://archive.is/Rsyy8 | Brusque, Cachoeiro do Itapemirim, Campos dos Goytacazes, Conselheiro Lafaiete, Contagem, Dourados, Ipatinga, Itajaí, Itapema, etc |
 | [CertelNET - Soluções em Conectividade](http://www.certelnet.com.br/home/) | http://archive.is/VBHQ3 | Vale do Taquari e Vale do Caí |
 | [Clean Net](http://www.cleannet.com.br/) | http://archive.is/wurzN | Região Metropolitana de Porto Alegre |
@@ -201,6 +202,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 | [Algar Telecom](http://www.algartelecom.com.br/) | https://archive.is/I7kDd | Usuários reportam que só atendem planos empresariais no DF. |
 | [ALT Acessonline Telecomunicações](http://www.alt.net.br) | https://archive.is/umfFY | &nbsp; |
 | [AltoValeNet](http://www.altovalenet.com.br/) | https://archive.is/wUohu | &nbsp; |
+| [Bitcom](http://bitcom.psi.br/) | https://archive.is/aowla | Portão, Porto Alegre, Santa Cruz do Sul e Serra Gaúcha no RS / Campos Novos, Lages e Fraiburgo em SC |
 | [BLUE](http://www.blue.tv.br/) | http://archive.is/Rsyy8 | Brusque, Cachoeiro do Itapemirim, Campos dos Goytacazes, Conselheiro Lafaiete, Contagem, Dourados, Ipatinga, Itajaí, Itapema, etc |
 | [Contato Internet](http://www.contato.net/) | https://archive.is/Y2sni | Vale do Araranguá |
 | [Experts Telecom](http://www.expertsinformatica.com.br) | http://archive.is/YLyVF | &nbsp; |
