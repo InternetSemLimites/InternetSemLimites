@@ -150,7 +150,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 | [BLUE](http://www.blue.tv.br/) | http://archive.is/Rsyy8 | Brusque, Cachoeiro do Itapemirim, Campos dos Goytacazes, Conselheiro Lafaiete, Contagem, Dourados, Ipatinga, Itajaí, Itapema, etc |
 | [CR Net](http://www.crnetbrasil.com.br/) | http://archive.is/MfCNl | São Gonçalo no Jardim Catarina e Santa Luzia |
 | [LiveTIM](http://www.livetim.tim.com.br/) | https://archive.is/H5kYp | &nbsp; |
-| [Niitnet](http://www.nitnet.com.br/) | http://archive.is/4qpIZ | Niterói, São Gonçalo, Itaboraí, Magé, Maricá (Itaipuaçú), Rio de Janeiro e Baixada Fluminense |
+| [Niitnet](http://www.nitnet.com.br/) | http://archive.is/4qpIZ | Niterói, São Gonçalo, Itaboraí, Magé, Maricá (Itaipuaçú), Rio de Janeiro (somente empresas da região central) e Baixada Fluminense |
 | [Sistemax Brasil (Wiix Internet)](http://www.wiix.com.br) | https://archive.is/in3fo | &nbsp; |
 | [Viaband](http://www.viaband.net.br) | http://archive.is/46KbE | Zona oeste do município do Rio de Janeiro |
 | [ViaLink](http://www.vialinktelecom.com.br) | http://archive.is/qyYON | Duque de Caxias e adjacências |
