@@ -41,6 +41,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 | [Inova Telecom](http://www.inovatelecom.net.br/) | http://archive.is/bHnec | &nbsp; |
 | [Mob Telecom](http://www.mobtelecom.com.br/) | https://archive.is/v5Ajk | &nbsp; |
 | [Multiplay Telecom](http://www.multiplaytelecom.com.br/) | https://archive.is/aLHyp | Fortaleza |
+| [Online Telecom](http://www.onlinetelecom.com.br) | http://archive.is/PbBg3 | &nbsp; |
 
 ## Distrito Federal
 
@@ -67,6 +68,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 | Provedor | Fonte | Observações |
 |----------|-------|-------------|
 | [Mob Telecom](http://www.mobtelecom.com.br/) | https://archive.is/v5Ajk | &nbsp; |
+| [Online Telecom](http://www.onlinetelecom.com.br) | http://archive.is/PbBg3 | &nbsp; |
 | [TVN](http://www.tvn.com.br/sao-luis/tvn-internet/) | https://archive.is/FoSH4 | São Luís - MA; Canoas - RS; Cachoeirinha - RS; Esteio - RS; São Leopoldo -RS; Sapucaia do Sul - RS. |
 
 ## Mato Grosso
@@ -141,6 +143,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 | Provedor | Fonte | Observações |
 |----------|-------|-------------|
 | [Mob Telecom](http://www.mobtelecom.com.br/) | https://archive.is/v5Ajk | &nbsp; |
+| [Online Telecom](http://www.onlinetelecom.com.br) | http://archive.is/PbBg3 | &nbsp; |
 
 ## Rio de Janeiro
 
