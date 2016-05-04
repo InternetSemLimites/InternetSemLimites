@@ -181,6 +181,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 | [D1 Telecom](http://www.d1telecom.com.br) | https://archive.is/Ega0R | &nbsp; |
 | [Giga Internet](http://www.giga.com.br/) | https://archive.is/58NZ5 | &nbsp; |
 | [INB Telecom](http://www.inbtelecom.com.br/) | http://archive.is/uERpb | Santo Antônio da Patrulha, Osório, Tramandaí, Imbé, Cidreira, Balneário Pinhal, Maquiné. |
+| [RápidaNet](http://www.rapidanet.com) | http://archive.is/7nHyv | Região do Vale dos Sinos |
 | [RBT Internet](http://rbt.psi.br/) | https://archive.is/iQ1At | Gramado, Nova Petropolis, Santa Maria do Herval, Morro Reuter, Nova Hartz, Canela e Ararica |
 | [Renovare Telecom](http://www.renovaretelecom.com.br/) | http://archive.is/ePr9J | &nbsp; |
 | [Sebratel](http://www.sebratel.com.br) | https://archive.is/GxvL4 | Três Coroas, Igrejinha, Taquara, Esteio, Campo Bom, Novo Hamburgo, Sapiranga, Araricá, Parobé, Triunfo, Nova Santa Rita, Brochier, Gaurama, |
