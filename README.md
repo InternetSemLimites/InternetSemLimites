@@ -184,6 +184,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 | [RápidaNet](http://www.rapidanet.com) | http://archive.is/7nHyv | Região do Vale dos Sinos |
 | [RBT Internet](http://rbt.psi.br/) | https://archive.is/iQ1At | Gramado, Nova Petropolis, Santa Maria do Herval, Morro Reuter, Nova Hartz, Canela e Ararica |
 | [Renovare Telecom](http://www.renovaretelecom.com.br/) | http://archive.is/ePr9J | &nbsp; |
+| [Seanet](http://www.seanet.com.br) | http://archive.is/9Yada | Itapema/SC, Porto Belo/SC, Carazinho/RS |
 | [Sebratel](http://www.sebratel.com.br) | https://archive.is/GxvL4 | Três Coroas, Igrejinha, Taquara, Esteio, Campo Bom, Novo Hamburgo, Sapiranga, Araricá, Parobé, Triunfo, Nova Santa Rita, Brochier, Gaurama, |
 | [Sinos.net](http://www.sinos.net/) | https://archive.is/YoQNP | Novo Hamburgo e demais cidades da região |
 | [Tri Telecom](http://www.tri.com.br) | http://archive.is/qvM2B | Porto Alegre e Grande Porto Alegre |
@@ -212,6 +213,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 | [Experts Telecom](http://www.expertsinformatica.com.br) | http://archive.is/YLyVF | &nbsp; |
 | [Naxi](http://www.naxi.com.br/) | https://archive.is/nclhr | Jaraguá do Sul |
 | [Neorede Telecom](http://www.neorede.com.br) | http://archive.is/ftrus | Florianópolis, São José, Biguaçu, Palhoça, Tijucas, Paulo Lopes |
+| [Seanet](http://www.seanet.com.br) | http://archive.is/9Yada | Itapema/SC, Porto Belo/SC, Carazinho/RS |
 | [Sistemax Brasil (Wiix Internet)](http://www.wiix.com.br) | https://archive.is/in3fo | &nbsp; |
 | [TboNet](https://www.facebook.com/tbo.net.5/) | https://archive.is/arQ0S | &nbsp; |
 | [Unifique](https://unifique.com.br/) | https://archive.is/LMadi | &nbsp; |
