@@ -128,6 +128,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 | [DEZ Telecom](http://www.deztelecom.net.br) | http://archive.is/4hA3u | &nbsp; |
 | [Ligue Telecom](http://www.liguetelecom.com.br/) | http://archive.is/zYWgP | Campo Mourão e Região |
 | [Opção Telecom](https://www.opcaonet.com.br/) | https://archive.is/NPin7 | Marechal C. Rondon, Nova Santa Rosa, Palotina e, brevemente, em Toledo. |
+| [Sercomtel](http://www.sercomtel.com.br) | https://archive.is/FirWg | Londrina e região. |
 | [Sistemax Brasil (Wiix Internet)](http://www.wiix.com.br) | https://archive.is/in3fo | &nbsp; |
 | [World Line Net](http://www.wln.com.br/) | https://archive.is/EyE6N | Região Sudoeste do Paraná |
 
@@ -149,6 +150,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 
 | Provedor | Fonte | Observações |
 |----------|-------|-------------|
+| [Adaptlink](http://www.adaptlink.com.br/site/home.php?id_cidade=3) | https://archive.is/xQZvV | Seropédica |
 | [Algar Telecom](http://www.algartelecom.com.br/) | https://archive.is/I7kDd | Usuários reportam que só atendem planos empresariais no DF. |
 | [BLUE](http://www.blue.tv.br/) | http://archive.is/Rsyy8 | Brusque, Cachoeiro do Itapemirim, Campos dos Goytacazes, Conselheiro Lafaiete, Contagem, Dourados, Ipatinga, Itajaí, Itapema, etc |
 | [CR Net](http://www.crnetbrasil.com.br/) | http://archive.is/MfCNl | São Gonçalo no Jardim Catarina e Santa Luzia |
