@@ -167,6 +167,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 |----------|-------|-------------|
 | [Brisanet](http://www.brisanet.com.br) | http://archive.is/eQgcJ | &nbsp; |
 | [Cabo Telecom](http://cabotelecom.com.br) | https://archive.is/fsw4q | Natal |
+| [Cabo Telecom](http://cabotelecom.com.br/) | http://archive.is/0Ti3c | &nbsp; |
 | [Mob Telecom](http://www.mobtelecom.com.br/) | https://archive.is/v5Ajk | &nbsp; |
 | [TCM CABO](http://portaltcm.com.br/) | https://archive.is/cX22n | Mossoró |
 
