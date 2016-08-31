@@ -130,6 +130,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 | [Opção Telecom](https://www.opcaonet.com.br/) | https://archive.is/NPin7 | Marechal C. Rondon, Nova Santa Rosa, Palotina e, brevemente, em Toledo. |
 | [Sercomtel](http://www.sercomtel.com.br) | https://archive.is/FirWg | Londrina e região. |
 | [Sistemax Brasil (Wiix Internet)](http://www.wiix.com.br) | https://archive.is/in3fo | &nbsp; |
+| [Terres Telecom](http://www.terres.net.br) | https://archive.is/oJlbv | Três Barras do Paraná |
 | [World Line Net](http://www.wln.com.br/) | https://archive.is/EyE6N | Região Sudoeste do Paraná |
 
 ## Pernambuco
