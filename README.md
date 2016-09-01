@@ -128,6 +128,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 | [DEZ Telecom](http://www.deztelecom.net.br) | http://archive.is/4hA3u | &nbsp; |
 | [Ligue Telecom](http://www.liguetelecom.com.br/) | http://archive.is/zYWgP | Campo Mourão e Região |
 | [Opção Telecom](https://www.opcaonet.com.br/) | https://archive.is/NPin7 | Marechal C. Rondon, Nova Santa Rosa, Palotina e, brevemente, em Toledo. |
+| [Palasi Telecom](http://palasitelecom.com.br) | http://archive.is/LOvVv | Engenheiro Beltrão e região. |
 | [Sercomtel](http://www.sercomtel.com.br) | https://archive.is/FirWg | Londrina e região. |
 | [Sistemax Brasil (Wiix Internet)](http://www.wiix.com.br) | https://archive.is/in3fo | &nbsp; |
 | [Terres Telecom](http://www.terres.net.br) | https://archive.is/oJlbv | Três Barras do Paraná |
