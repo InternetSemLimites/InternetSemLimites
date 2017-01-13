@@ -184,7 +184,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 | [CertelNET - Soluções em Conectividade](http://www.certelnet.com.br/home/) | http://archive.is/VBHQ3 | Vale do Taquari e Vale do Caí |
 | [Clean Net](http://www.cleannet.com.br/) | http://archive.is/wurzN | Região Metropolitana de Porto Alegre |
 | [Coprel Telecom Ltda - Triway](http://www.triway.net.br) | https://archive.is/NqKVG | Região de Cruz Alta, Ernestina, Ibirubá, Não-Me-Toque, Panambi, Passo Fundo, Selbach, Tapera e Tapejara. |
-| [D1 Telecom](http://www.d1telecom.com.br) | https://archive.is/Ega0R | &nbsp; |
+| [D1 Telecom](http://www.d1telecom.com.br) | https://archive.is/Ega0R | Apenas Viamão |
 | [Datavag](http://www.datavag.com.br) | https://archive.is/wOR6d | Porto Alegre, Grande Porto Alegre e Litoral Norte |
 | [Giga Internet](http://www.giga.com.br/) | https://archive.is/58NZ5 | &nbsp; |
 | [INB Telecom](http://www.inbtelecom.com.br/) | http://archive.is/uERpb | Santo Antônio da Patrulha, Osório, Tramandaí, Imbé, Cidreira, Balneário Pinhal, Maquiné. |
