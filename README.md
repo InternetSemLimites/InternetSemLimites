@@ -23,6 +23,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 
 | Provedor | Fonte | Observações |
 |----------|-------|-------------|
+| [PS5 Internet](http://www.ps5.com.br) | http://archive.is/LugYE | &nbsp; |
 | [Stamp CyberLan](https://www.facebook.com/stamp.cyberlan) | https://archive.is/sW89X | Humaitá |
 
 ## Bahia
@@ -31,6 +32,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 |----------|-------|-------------|
 | [JereNet](https://www.facebook.com/jerenet.jeremoabo) | https://archive.is/6zKVx | Jeremoabo |
 | [Mob Telecom](http://www.mobtelecom.com.br/) | https://archive.is/v5Ajk | &nbsp; |
+| [PS5 Internet](http://www.ps5.com.br) | http://archive.is/LugYE | &nbsp; |
 | [Vox Conexão](http://www.voxconexao.com.br) | http://archive.is/WROSM | Montes Claros - MG, Sete Lagoas - MG e Vitória da Conquista - BA |
 
 ## Ceará
@@ -48,6 +50,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 | Provedor | Fonte | Observações |
 |----------|-------|-------------|
 | [Algar Telecom](http://www.algartelecom.com.br/) | https://archive.is/I7kDd | Usuários reportam que só atendem planos empresariais no DF. |
+| [PS5 Internet](http://www.ps5.com.br) | http://archive.is/LugYE | &nbsp; |
 
 ## Espírito Santo
 
@@ -60,6 +63,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 | Provedor | Fonte | Observações |
 |----------|-------|-------------|
 | [Algar Telecom](http://www.algartelecom.com.br/) | https://archive.is/I7kDd | Usuários reportam que só atendem planos empresariais no DF. |
+| [PS5 Internet](http://www.ps5.com.br) | http://archive.is/LugYE | &nbsp; |
 | [Telgo Telecom](http://telgo.com.br/) | https://archive.is/2Hm37 | &nbsp; |
 | [Velomax Telecom](http://www.velomax.net) | http://archive.is/kmI5S | &nbsp; |
 
@@ -76,6 +80,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 | Provedor | Fonte | Observações |
 |----------|-------|-------------|
 | [BLUE](http://www.blue.tv.br/) | http://archive.is/Rsyy8 | Brusque, Cachoeiro do Itapemirim, Campos dos Goytacazes, Conselheiro Lafaiete, Contagem, Dourados, Ipatinga, Itajaí, Itapema, etc |
+| [PS5 Internet](http://www.ps5.com.br) | http://archive.is/LugYE | &nbsp; |
 
 ## Mato Grosso do Sul
 
@@ -83,6 +88,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 |----------|-------|-------------|
 | [Algar Telecom](http://www.algartelecom.com.br/) | https://archive.is/I7kDd | Usuários reportam que só atendem planos empresariais no DF. |
 | [BLUE](http://www.blue.tv.br/) | http://archive.is/Rsyy8 | Brusque, Cachoeiro do Itapemirim, Campos dos Goytacazes, Conselheiro Lafaiete, Contagem, Dourados, Ipatinga, Itajaí, Itapema, etc |
+| [PS5 Internet](http://www.ps5.com.br) | http://archive.is/LugYE | &nbsp; |
 | [Sistemax Brasil (Wiix Internet)](http://www.wiix.com.br) | https://archive.is/in3fo | &nbsp; |
 
 ## Minas Gerais
@@ -97,6 +103,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 | [Master](http://novo.mastercabo.com.br/) | http://archive.is/ZR6qp | &nbsp; |
 | [Micropic](http://www.micropic.com.br) | http://archive.is/Bcsqu | Sul de Minas |
 | [Powerline Internet](http://www.powerline.com.br) | http://archive.is/lT4q6 | Juiz de Fora, Bicas, Lima Duarte, Maripá de MInas, Olaria, Guarará, Mar de Espanha, Matias Barbosa e Simão Pereira |
+| [PS5 Internet](http://www.ps5.com.br) | http://archive.is/LugYE | &nbsp; |
 | [Regis Net Informática](http://regisnet.com.br/index.php) | https://archive.is/uWd1W | Pedralva, Conceição das Pedras, Natércia e Cristina. |
 | [Sistemax Brasil (Wiix Internet)](http://www.wiix.com.br) | https://archive.is/in3fo | &nbsp; |
 | [Vox Conexão](http://www.voxconexao.com.br) | http://archive.is/WROSM | Montes Claros - MG, Sete Lagoas - MG e Vitória da Conquista - BA |
@@ -115,6 +122,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 |----------|-------|-------------|
 | [BR27](http://www.br27.com.br/) | https://archive.is/rggZG | &nbsp; |
 | [Brisanet](http://www.brisanet.com.br) | http://archive.is/eQgcJ | &nbsp; |
+| [PS5 Internet](http://www.ps5.com.br) | http://archive.is/LugYE | &nbsp; |
 | [Voax Telecom](http://www.voax.com.br) | http://archive.is/n0MDU | Guarabira |
 
 ## Paraná
@@ -139,6 +147,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 | Provedor | Fonte | Observações |
 |----------|-------|-------------|
 | [Mob Telecom](http://www.mobtelecom.com.br/) | https://archive.is/v5Ajk | &nbsp; |
+| [PS5 Internet](http://www.ps5.com.br) | http://archive.is/LugYE | &nbsp; |
 | [Vescnet](http://www.vescnet.com.br/) | https://archive.is/XAMlb | &nbsp; |
 
 ## Piauí
@@ -159,6 +168,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 | [InterFacil Internet Provider](http://www.interfacil.info) | https://archive.is/PrktL | São Gonçalo |
 | [LiveTIM](http://www.livetim.tim.com.br/) | https://archive.is/H5kYp | &nbsp; |
 | [Niitnet](http://www.nitnet.com.br/) | http://archive.is/4qpIZ | Niterói, São Gonçalo, Itaboraí, Magé, Maricá (Itaipuaçú), Rio de Janeiro (somente empresas da região central) e Baixada Fluminense |
+| [PS5 Internet](http://www.ps5.com.br) | http://archive.is/LugYE | &nbsp; |
 | [Sistemax Brasil (Wiix Internet)](http://www.wiix.com.br) | https://archive.is/in3fo | &nbsp; |
 | [Viaband](http://www.viaband.net.br) | http://archive.is/46KbE | Zona oeste do município do Rio de Janeiro |
 | [ViaLink](http://www.vialinktelecom.com.br) | http://archive.is/qyYON | Duque de Caxias e adjacências |
@@ -206,6 +216,13 @@ This repo is focused on creating an open catalog of companies [who are not adher
 | Provedor | Fonte | Observações |
 |----------|-------|-------------|
 | [BLUE](http://www.blue.tv.br/) | http://archive.is/Rsyy8 | Brusque, Cachoeiro do Itapemirim, Campos dos Goytacazes, Conselheiro Lafaiete, Contagem, Dourados, Ipatinga, Itajaí, Itapema, etc |
+| [PS5 Internet](http://www.ps5.com.br) | http://archive.is/LugYE | &nbsp; |
+
+## Roraima
+
+| Provedor | Fonte | Observações |
+|----------|-------|-------------|
+| [PS5 Internet](http://www.ps5.com.br) | http://archive.is/LugYE | &nbsp; |
 
 ## Santa Catarina
 
@@ -234,6 +251,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 | [LiveTIM](http://www.livetim.tim.com.br/) | https://archive.is/H5kYp | &nbsp; |
 | [Master](http://novo.mastercabo.com.br/) | http://archive.is/ZR6qp | &nbsp; |
 | [Netion](http://www.netiontelecom.com.br) | http://archive.is/s18rc | Atende algumas cidades da Baixada Santista com tecnologia fibra ótica e via rádio. |
+| [PS5 Internet](http://www.ps5.com.br) | http://archive.is/LugYE | &nbsp; |
 | [Sistemax Brasil (Wiix Internet)](http://www.wiix.com.br) | https://archive.is/in3fo | &nbsp; |
 
 ## Sergipe
