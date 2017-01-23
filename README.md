@@ -210,6 +210,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 | [Viavale Telecom](http://www.viavale.com.br/) | https://archive.is/8BofM | Santa Cruz do Sul |
 | [VIP Telecom](http://www.viptelecom.com.br) | http://archive.is/Ah34y | Todo o território do RS |
 | [Viu Telecom](http://www.viutelecom.com.br/) | http://archive.is/5MSRp | Osório, Atlântida Sul, Tramandaí, Imbé, Capão da Canoa, Xangri-lá, Capão Novo |
+| [VOA Telecom](http://www.voatelecom.com.br) | http://archive.is/0lkQD | Ivoti, Estância Velha, Capela de Santana, Portão |
 
 ## Rondônia
 
