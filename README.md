@@ -139,6 +139,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 | [Palasi Telecom](http://palasitelecom.com.br) | http://archive.is/LOvVv | Engenheiro Beltrão e região. |
 | [Sercomtel](http://www.sercomtel.com.br) | https://archive.is/FirWg | Londrina e região. |
 | [Sistemax Brasil (Wiix Internet)](http://www.wiix.com.br) | https://archive.is/in3fo | &nbsp; |
+| [Sul Internet](http://www.sul.com.br/) | http://archive.is/s4g5k | Curitiba, Colombo, Almirante Tamandaré, Fazenda Rio Grande, Pinhais, Ponta Grossa, Campo Largo, Matinhos, entre outras. |
 | [Terres Telecom](http://www.terres.net.br) | https://archive.is/oJlbv | Três Barras do Paraná |
 | [World Line Net](http://www.wln.com.br/) | https://archive.is/EyE6N | Região Sudoeste do Paraná |
 
