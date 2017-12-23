@@ -133,7 +133,7 @@ This repo is focused on creating an open catalog of companies [who are not adher
 | [Ampernet Telecom](http://www.ampernet.com.br/) | http://archive.is/QoLHp | Região Sudoeste do Paraná |
 | [BLUE](http://www.blue.tv.br/) | http://archive.is/Rsyy8 | Brusque, Cachoeiro do Itapemirim, Campos dos Goytacazes, Conselheiro Lafaiete, Contagem, Dourados, Ipatinga, Itajaí, Itapema, etc |
 | [Copel Telecom](http://www.copeltelecom.com/) | https://archive.is/YWaqe | &nbsp; |
-| [DEZ Telecom](http://www.deztelecom.net.br) | http://archive.is/4hA3u | &nbsp; |
+| [DEZ Telecom](http://www.deztelecom.net.br) | http://archive.is/4hA3u | Dois Vizinhos, Francisco Beltrão e Quedas do Iguaçu |
 | [Ligue Telecom](http://www.liguetelecom.com.br/) | http://archive.is/zYWgP | Campo Mourão e Região |
 | [Opção Telecom](https://www.opcaonet.com.br/) | https://archive.is/NPin7 | Marechal C. Rondon, Nova Santa Rosa, Palotina e, brevemente, em Toledo. |
 | [Palasi Telecom](http://palasitelecom.com.br) | http://archive.is/LOvVv | Engenheiro Beltrão e região. |
